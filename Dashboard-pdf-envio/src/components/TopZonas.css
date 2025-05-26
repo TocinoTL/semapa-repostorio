@@ -1,0 +1,33 @@
+.topzonas table {
+  width: 100%;
+  border-spacing: 0;
+}
+
+.zona-nombre {
+  padding: 6px 10px;
+  font-size: 13px;
+  font-weight: 500;
+  vertical-align: middle;
+  width: 45%;
+}
+
+.zona-barra {
+  width: 55%;
+  padding: 4px 0;
+  vertical-align: middle;
+}
+
+.zona-barra .barra {
+  background-color: #3498db;
+  height: 20px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 6px;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  min-width: 30px; /* evita que se rompa en valores chicos */
+  position: relative;
+}

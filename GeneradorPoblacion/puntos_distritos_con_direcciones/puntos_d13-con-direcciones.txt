@@ -1,0 +1,1521 @@
+-17.339004,-66.151933, Calle Terminal #100, Cara Cara, D13
+-17.329523,-66.175686, Calle Cementerio #101, La Temible, D13
+-17.304907,-66.142273, Calle Industrial #102, K’ara K’ara II, D13
+-17.323758,-66.126215, Calle Ferrocarril #103, Cara Cara, D13
+-17.306966,-66.139794, Calle Tupiza #104, La Temible, D13
+-17.325514,-66.122252, Calle Terminal #105, K’ara K’ara II, D13
+-17.324184,-66.172963, Calle Cementerio #106, Cara Cara, D13
+-17.323068,-66.153894, Calle Industrial #107, La Temible, D13
+-17.327989,-66.161727, Calle Ferrocarril #108, K’ara K’ara II, D13
+-17.363414,-66.115436, Calle Tupiza #109, Cara Cara, D13
+-17.332974,-66.139684, Calle Terminal #110, La Temible, D13
+-17.342900,-66.149988, Calle Cementerio #111, K’ara K’ara II, D13
+-17.295959,-66.157005, Calle Industrial #112, Cara Cara, D13
+-17.293648,-66.146255, Calle Ferrocarril #113, La Temible, D13
+-17.303065,-66.126729, Calle Tupiza #114, K’ara K’ara II, D13
+-17.302642,-66.140428, Calle Terminal #115, Cara Cara, D13
+-17.312119,-66.144667, Calle Cementerio #116, La Temible, D13
+-17.334429,-66.165913, Calle Industrial #117, K’ara K’ara II, D13
+-17.340776,-66.122802, Calle Ferrocarril #118, Cara Cara, D13
+-17.328693,-66.177771, Calle Tupiza #119, La Temible, D13
+-17.297087,-66.135282, Calle Terminal #120, K’ara K’ara II, D13
+-17.343136,-66.123646, Calle Cementerio #121, Cara Cara, D13
+-17.319086,-66.125523, Calle Industrial #122, La Temible, D13
+-17.323633,-66.133439, Calle Ferrocarril #123, K’ara K’ara II, D13
+-17.340462,-66.156683, Calle Tupiza #124, Cara Cara, D13
+-17.297465,-66.156784, Calle Terminal #125, La Temible, D13
+-17.322504,-66.148061, Calle Cementerio #126, K’ara K’ara II, D13
+-17.356275,-66.131044, Calle Industrial #127, Cara Cara, D13
+-17.296157,-66.137580, Calle Ferrocarril #128, La Temible, D13
+-17.294012,-66.134923, Calle Tupiza #129, K’ara K’ara II, D13
+-17.303253,-66.154287, Calle Terminal #130, Cara Cara, D13
+-17.332910,-66.122026, Calle Cementerio #131, La Temible, D13
+-17.346542,-66.145728, Calle Industrial #132, K’ara K’ara II, D13
+-17.361436,-66.114818, Calle Ferrocarril #133, Cara Cara, D13
+-17.314423,-66.151384, Calle Tupiza #134, La Temible, D13
+-17.356852,-66.110769, Calle Terminal #135, K’ara K’ara II, D13
+-17.305415,-66.139153, Calle Cementerio #136, Cara Cara, D13
+-17.328813,-66.174698, Calle Industrial #137, La Temible, D13
+-17.310840,-66.149922, Calle Ferrocarril #138, K’ara K’ara II, D13
+-17.314200,-66.139677, Calle Tupiza #139, Cara Cara, D13
+-17.358086,-66.120736, Calle Terminal #140, La Temible, D13
+-17.292919,-66.130636, Calle Cementerio #141, K’ara K’ara II, D13
+-17.322322,-66.168307, Calle Industrial #142, Cara Cara, D13
+-17.324154,-66.175329, Calle Ferrocarril #143, La Temible, D13
+-17.295711,-66.132146, Calle Tupiza #144, K’ara K’ara II, D13
+-17.291173,-66.130786, Calle Terminal #145, Cara Cara, D13
+-17.338502,-66.151285, Calle Cementerio #146, La Temible, D13
+-17.308611,-66.139595, Calle Industrial #147, K’ara K’ara II, D13
+-17.291787,-66.145662, Calle Ferrocarril #148, Cara Cara, D13
+-17.306087,-66.154897, Calle Tupiza #149, La Temible, D13
+-17.312578,-66.163568, Calle Terminal #150, K’ara K’ara II, D13
+-17.310384,-66.139637, Calle Cementerio #151, Cara Cara, D13
+-17.317170,-66.155310, Calle Industrial #152, La Temible, D13
+-17.308002,-66.144257, Calle Ferrocarril #153, K’ara K’ara II, D13
+-17.312477,-66.134574, Calle Tupiza #154, Cara Cara, D13
+-17.319604,-66.166892, Calle Terminal #155, La Temible, D13
+-17.342228,-66.140438, Calle Cementerio #156, K’ara K’ara II, D13
+-17.351066,-66.122450, Calle Industrial #157, Cara Cara, D13
+-17.313669,-66.136426, Calle Ferrocarril #158, La Temible, D13
+-17.317555,-66.163617, Calle Tupiza #159, K’ara K’ara II, D13
+-17.325588,-66.146612, Calle Terminal #160, Cara Cara, D13
+-17.325971,-66.125770, Calle Cementerio #161, La Temible, D13
+-17.323294,-66.137716, Calle Industrial #162, K’ara K’ara II, D13
+-17.344020,-66.141154, Calle Ferrocarril #163, Cara Cara, D13
+-17.299552,-66.153637, Calle Tupiza #164, La Temible, D13
+-17.314643,-66.160199, Calle Terminal #165, K’ara K’ara II, D13
+-17.334866,-66.163545, Calle Cementerio #166, Cara Cara, D13
+-17.346558,-66.118835, Calle Industrial #167, La Temible, D13
+-17.324221,-66.155917, Calle Ferrocarril #168, K’ara K’ara II, D13
+-17.333736,-66.173026, Calle Tupiza #169, Cara Cara, D13
+-17.324004,-66.124662, Calle Terminal #170, La Temible, D13
+-17.327773,-66.129796, Calle Cementerio #171, K’ara K’ara II, D13
+-17.351427,-66.148788, Calle Industrial #172, Cara Cara, D13
+-17.353223,-66.123647, Calle Ferrocarril #173, La Temible, D13
+-17.342033,-66.134363, Calle Tupiza #174, K’ara K’ara II, D13
+-17.307958,-66.145895, Calle Terminal #175, Cara Cara, D13
+-17.303744,-66.134522, Calle Cementerio #176, La Temible, D13
+-17.318689,-66.120640, Calle Industrial #177, K’ara K’ara II, D13
+-17.350533,-66.129401, Calle Ferrocarril #178, Cara Cara, D13
+-17.315928,-66.130406, Calle Tupiza #179, La Temible, D13
+-17.348517,-66.142926, Calle Terminal #180, K’ara K’ara II, D13
+-17.337687,-66.157722, Calle Cementerio #181, Cara Cara, D13
+-17.320100,-66.149137, Calle Industrial #182, La Temible, D13
+-17.291276,-66.130957, Calle Ferrocarril #183, K’ara K’ara II, D13
+-17.353275,-66.123858, Calle Tupiza #184, Cara Cara, D13
+-17.308984,-66.158114, Calle Terminal #185, La Temible, D13
+-17.315828,-66.136534, Calle Cementerio #186, K’ara K’ara II, D13
+-17.315971,-66.144370, Calle Industrial #187, Cara Cara, D13
+-17.327581,-66.139115, Calle Ferrocarril #188, La Temible, D13
+-17.303600,-66.141889, Calle Tupiza #189, K’ara K’ara II, D13
+-17.294503,-66.145883, Calle Terminal #190, Cara Cara, D13
+-17.293973,-66.146987, Calle Cementerio #191, La Temible, D13
+-17.328546,-66.144892, Calle Industrial #192, K’ara K’ara II, D13
+-17.337495,-66.153553, Calle Ferrocarril #193, Cara Cara, D13
+-17.336860,-66.154966, Calle Tupiza #194, La Temible, D13
+-17.333014,-66.129741, Calle Terminal #195, K’ara K’ara II, D13
+-17.347587,-66.132699, Calle Cementerio #196, Cara Cara, D13
+-17.332388,-66.184623, Calle Industrial #197, La Temible, D13
+-17.330485,-66.178696, Calle Ferrocarril #198, K’ara K’ara II, D13
+-17.331637,-66.121156, Calle Tupiza #199, Cara Cara, D13
+-17.299298,-66.142225, Calle Terminal #200, La Temible, D13
+-17.327550,-66.147990, Calle Cementerio #201, K’ara K’ara II, D13
+-17.340876,-66.147065, Calle Industrial #202, Cara Cara, D13
+-17.319114,-66.151380, Calle Ferrocarril #203, La Temible, D13
+-17.303881,-66.147185, Calle Tupiza #204, K’ara K’ara II, D13
+-17.343437,-66.153837, Calle Terminal #205, Cara Cara, D13
+-17.304812,-66.151901, Calle Cementerio #206, La Temible, D13
+-17.354880,-66.141270, Calle Industrial #207, K’ara K’ara II, D13
+-17.349493,-66.156796, Calle Ferrocarril #208, Cara Cara, D13
+-17.338519,-66.132606, Calle Tupiza #209, La Temible, D13
+-17.335129,-66.172376, Calle Terminal #210, K’ara K’ara II, D13
+-17.300255,-66.154794, Calle Cementerio #211, Cara Cara, D13
+-17.330539,-66.138901, Calle Industrial #212, La Temible, D13
+-17.358378,-66.109232, Calle Ferrocarril #213, K’ara K’ara II, D13
+-17.304895,-66.129093, Calle Tupiza #214, Cara Cara, D13
+-17.343121,-66.154876, Calle Terminal #215, La Temible, D13
+-17.320934,-66.164822, Calle Cementerio #216, K’ara K’ara II, D13
+-17.327373,-66.142183, Calle Industrial #217, Cara Cara, D13
+-17.354632,-66.115656, Calle Ferrocarril #218, La Temible, D13
+-17.347922,-66.124601, Calle Tupiza #219, K’ara K’ara II, D13
+-17.296982,-66.136288, Calle Terminal #220, Cara Cara, D13
+-17.340883,-66.150660, Calle Cementerio #221, La Temible, D13
+-17.334890,-66.133092, Calle Industrial #222, K’ara K’ara II, D13
+-17.299617,-66.158304, Calle Ferrocarril #223, Cara Cara, D13
+-17.348711,-66.158207, Calle Tupiza #224, La Temible, D13
+-17.328125,-66.168075, Calle Terminal #225, K’ara K’ara II, D13
+-17.346371,-66.134758, Calle Cementerio #226, Cara Cara, D13
+-17.360012,-66.115782, Calle Industrial #227, La Temible, D13
+-17.312433,-66.126978, Calle Ferrocarril #228, K’ara K’ara II, D13
+-17.327927,-66.153226, Calle Tupiza #229, Cara Cara, D13
+-17.325405,-66.159643, Calle Terminal #230, La Temible, D13
+-17.346606,-66.130777, Calle Cementerio #231, K’ara K’ara II, D13
+-17.358432,-66.108258, Calle Industrial #232, Cara Cara, D13
+-17.300469,-66.148292, Calle Ferrocarril #233, La Temible, D13
+-17.301226,-66.130635, Calle Tupiza #234, K’ara K’ara II, D13
+-17.359737,-66.116536, Calle Terminal #235, Cara Cara, D13
+-17.297460,-66.128610, Calle Cementerio #236, La Temible, D13
+-17.336579,-66.149710, Calle Industrial #237, K’ara K’ara II, D13
+-17.317276,-66.127450, Calle Ferrocarril #238, Cara Cara, D13
+-17.354023,-66.114269, Calle Tupiza #239, La Temible, D13
+-17.318934,-66.133207, Calle Terminal #240, K’ara K’ara II, D13
+-17.323208,-66.126331, Calle Cementerio #241, Cara Cara, D13
+-17.325800,-66.163896, Calle Industrial #242, La Temible, D13
+-17.296882,-66.132625, Calle Ferrocarril #243, K’ara K’ara II, D13
+-17.360561,-66.128085, Calle Tupiza #244, Cara Cara, D13
+-17.349784,-66.150076, Calle Terminal #245, La Temible, D13
+-17.335648,-66.142087, Calle Cementerio #246, K’ara K’ara II, D13
+-17.344237,-66.131601, Calle Industrial #247, Cara Cara, D13
+-17.323330,-66.133881, Calle Ferrocarril #248, La Temible, D13
+-17.359791,-66.124807, Calle Tupiza #249, K’ara K’ara II, D13
+-17.299193,-66.148311, Calle Terminal #250, Cara Cara, D13
+-17.344019,-66.140667, Calle Cementerio #251, La Temible, D13
+-17.346401,-66.158756, Calle Industrial #252, K’ara K’ara II, D13
+-17.293440,-66.141940, Calle Ferrocarril #253, Cara Cara, D13
+-17.307663,-66.152741, Calle Tupiza #254, La Temible, D13
+-17.291519,-66.128650, Calle Terminal #255, K’ara K’ara II, D13
+-17.360297,-66.115874, Calle Cementerio #256, Cara Cara, D13
+-17.333934,-66.177316, Calle Industrial #257, La Temible, D13
+-17.299080,-66.134988, Calle Ferrocarril #258, K’ara K’ara II, D13
+-17.322687,-66.147312, Calle Tupiza #259, Cara Cara, D13
+-17.314247,-66.138071, Calle Terminal #260, La Temible, D13
+-17.295027,-66.143581, Calle Cementerio #261, K’ara K’ara II, D13
+-17.342580,-66.127689, Calle Industrial #262, Cara Cara, D13
+-17.333044,-66.150358, Calle Ferrocarril #263, La Temible, D13
+-17.326992,-66.118311, Calle Tupiza #264, K’ara K’ara II, D13
+-17.360274,-66.110498, Calle Terminal #265, Cara Cara, D13
+-17.349440,-66.123853, Calle Cementerio #266, La Temible, D13
+-17.290227,-66.144877, Calle Industrial #267, K’ara K’ara II, D13
+-17.299243,-66.142624, Calle Ferrocarril #268, Cara Cara, D13
+-17.315531,-66.153512, Calle Tupiza #269, La Temible, D13
+-17.355699,-66.127337, Calle Terminal #270, K’ara K’ara II, D13
+-17.346330,-66.125249, Calle Cementerio #271, Cara Cara, D13
+-17.321115,-66.148468, Calle Industrial #272, La Temible, D13
+-17.328772,-66.157154, Calle Ferrocarril #273, K’ara K’ara II, D13
+-17.345902,-66.161083, Calle Tupiza #274, Cara Cara, D13
+-17.321469,-66.129556, Calle Terminal #275, La Temible, D13
+-17.359497,-66.120921, Calle Cementerio #276, K’ara K’ara II, D13
+-17.350455,-66.140384, Calle Industrial #277, Cara Cara, D13
+-17.307412,-66.160382, Calle Ferrocarril #278, La Temible, D13
+-17.323394,-66.126965, Calle Tupiza #279, K’ara K’ara II, D13
+-17.337442,-66.131573, Calle Terminal #280, Cara Cara, D13
+-17.341614,-66.125367, Calle Cementerio #281, La Temible, D13
+-17.334747,-66.139940, Calle Industrial #282, K’ara K’ara II, D13
+-17.315113,-66.150267, Calle Ferrocarril #283, Cara Cara, D13
+-17.347691,-66.143150, Calle Tupiza #284, La Temible, D13
+-17.323892,-66.143272, Calle Terminal #285, K’ara K’ara II, D13
+-17.328800,-66.163661, Calle Cementerio #286, Cara Cara, D13
+-17.310405,-66.141170, Calle Industrial #287, La Temible, D13
+-17.316552,-66.152084, Calle Ferrocarril #288, K’ara K’ara II, D13
+-17.289121,-66.140615, Calle Tupiza #289, Cara Cara, D13
+-17.350413,-66.124778, Calle Terminal #290, La Temible, D13
+-17.302802,-66.148378, Calle Cementerio #291, K’ara K’ara II, D13
+-17.301383,-66.136805, Calle Industrial #292, Cara Cara, D13
+-17.317845,-66.161340, Calle Ferrocarril #293, La Temible, D13
+-17.357523,-66.136521, Calle Tupiza #294, K’ara K’ara II, D13
+-17.344715,-66.158443, Calle Terminal #295, Cara Cara, D13
+-17.316268,-66.139477, Calle Cementerio #296, La Temible, D13
+-17.332031,-66.164977, Calle Industrial #297, K’ara K’ara II, D13
+-17.313972,-66.125095, Calle Ferrocarril #298, Cara Cara, D13
+-17.288718,-66.136284, Calle Tupiza #299, La Temible, D13
+-17.309872,-66.159295, Calle Terminal #300, K’ara K’ara II, D13
+-17.328544,-66.121555, Calle Cementerio #301, Cara Cara, D13
+-17.310745,-66.130715, Calle Industrial #302, La Temible, D13
+-17.331170,-66.138376, Calle Ferrocarril #303, K’ara K’ara II, D13
+-17.327833,-66.139745, Calle Tupiza #304, Cara Cara, D13
+-17.308813,-66.155261, Calle Terminal #305, La Temible, D13
+-17.319237,-66.135993, Calle Cementerio #306, K’ara K’ara II, D13
+-17.336673,-66.126113, Calle Industrial #307, Cara Cara, D13
+-17.319357,-66.135833, Calle Ferrocarril #308, La Temible, D13
+-17.355202,-66.140347, Calle Tupiza #309, K’ara K’ara II, D13
+-17.320852,-66.168881, Calle Terminal #310, Cara Cara, D13
+-17.326755,-66.154790, Calle Cementerio #311, La Temible, D13
+-17.356973,-66.115054, Calle Industrial #312, K’ara K’ara II, D13
+-17.347721,-66.128800, Calle Ferrocarril #313, Cara Cara, D13
+-17.360050,-66.125600, Calle Tupiza #314, La Temible, D13
+-17.336747,-66.123601, Calle Terminal #315, K’ara K’ara II, D13
+-17.336688,-66.160522, Calle Cementerio #316, Cara Cara, D13
+-17.344549,-66.118966, Calle Industrial #317, La Temible, D13
+-17.342590,-66.164799, Calle Ferrocarril #318, K’ara K’ara II, D13
+-17.330145,-66.122880, Calle Tupiza #319, Cara Cara, D13
+-17.350295,-66.135341, Calle Terminal #320, La Temible, D13
+-17.333307,-66.137210, Calle Cementerio #321, K’ara K’ara II, D13
+-17.343276,-66.149682, Calle Industrial #322, Cara Cara, D13
+-17.313995,-66.138241, Calle Ferrocarril #323, La Temible, D13
+-17.349782,-66.122971, Calle Tupiza #324, K’ara K’ara II, D13
+-17.305887,-66.127749, Calle Terminal #325, Cara Cara, D13
+-17.346789,-66.140841, Calle Cementerio #326, La Temible, D13
+-17.338095,-66.163608, Calle Industrial #327, K’ara K’ara II, D13
+-17.348802,-66.139660, Calle Ferrocarril #328, Cara Cara, D13
+-17.335429,-66.129882, Calle Tupiza #329, La Temible, D13
+-17.344085,-66.158094, Calle Terminal #330, K’ara K’ara II, D13
+-17.300715,-66.145007, Calle Cementerio #331, Cara Cara, D13
+-17.338905,-66.137738, Calle Industrial #332, La Temible, D13
+-17.331337,-66.146506, Calle Ferrocarril #333, K’ara K’ara II, D13
+-17.310018,-66.151731, Calle Tupiza #334, Cara Cara, D13
+-17.287598,-66.147226, Calle Terminal #335, La Temible, D13
+-17.303621,-66.150555, Calle Cementerio #336, K’ara K’ara II, D13
+-17.307996,-66.144782, Calle Industrial #337, Cara Cara, D13
+-17.355122,-66.137010, Calle Ferrocarril #338, La Temible, D13
+-17.333703,-66.171267, Calle Tupiza #339, K’ara K’ara II, D13
+-17.351385,-66.125089, Calle Terminal #340, Cara Cara, D13
+-17.344795,-66.124037, Calle Cementerio #341, La Temible, D13
+-17.352819,-66.148862, Calle Industrial #342, K’ara K’ara II, D13
+-17.361451,-66.115275, Calle Ferrocarril #343, Cara Cara, D13
+-17.338666,-66.169541, Calle Tupiza #344, La Temible, D13
+-17.315495,-66.129031, Calle Terminal #345, K’ara K’ara II, D13
+-17.331546,-66.179556, Calle Cementerio #346, Cara Cara, D13
+-17.336059,-66.123276, Calle Industrial #347, La Temible, D13
+-17.288790,-66.148199, Calle Ferrocarril #348, K’ara K’ara II, D13
+-17.317773,-66.142930, Calle Tupiza #349, Cara Cara, D13
+-17.331120,-66.145828, Calle Terminal #350, La Temible, D13
+-17.338922,-66.161875, Calle Cementerio #351, K’ara K’ara II, D13
+-17.310717,-66.148456, Calle Industrial #352, Cara Cara, D13
+-17.325283,-66.140676, Calle Ferrocarril #353, La Temible, D13
+-17.290928,-66.131139, Calle Tupiza #354, K’ara K’ara II, D13
+-17.291291,-66.142647, Calle Terminal #355, Cara Cara, D13
+-17.300567,-66.149666, Calle Cementerio #356, La Temible, D13
+-17.313650,-66.143590, Calle Industrial #357, K’ara K’ara II, D13
+-17.349579,-66.121328, Calle Ferrocarril #358, Cara Cara, D13
+-17.297438,-66.152300, Calle Tupiza #359, La Temible, D13
+-17.332076,-66.139365, Calle Terminal #360, K’ara K’ara II, D13
+-17.355961,-66.118775, Calle Cementerio #361, Cara Cara, D13
+-17.316333,-66.152745, Calle Industrial #362, La Temible, D13
+-17.344773,-66.132373, Calle Ferrocarril #363, K’ara K’ara II, D13
+-17.342350,-66.145248, Calle Tupiza #364, Cara Cara, D13
+-17.341617,-66.155095, Calle Terminal #365, La Temible, D13
+-17.308869,-66.161681, Calle Cementerio #366, K’ara K’ara II, D13
+-17.295117,-66.156708, Calle Industrial #367, Cara Cara, D13
+-17.327530,-66.135564, Calle Ferrocarril #368, La Temible, D13
+-17.317290,-66.137688, Calle Tupiza #369, K’ara K’ara II, D13
+-17.333168,-66.131944, Calle Terminal #370, Cara Cara, D13
+-17.333991,-66.177980, Calle Cementerio #371, La Temible, D13
+-17.308818,-66.155992, Calle Industrial #372, K’ara K’ara II, D13
+-17.316116,-66.140089, Calle Ferrocarril #373, Cara Cara, D13
+-17.359628,-66.114637, Calle Tupiza #374, La Temible, D13
+-17.328704,-66.160567, Calle Terminal #375, K’ara K’ara II, D13
+-17.338755,-66.132754, Calle Cementerio #376, Cara Cara, D13
+-17.308914,-66.127328, Calle Industrial #377, La Temible, D13
+-17.335265,-66.172906, Calle Ferrocarril #378, K’ara K’ara II, D13
+-17.344711,-66.148836, Calle Tupiza #379, Cara Cara, D13
+-17.347269,-66.152318, Calle Terminal #380, La Temible, D13
+-17.300765,-66.140494, Calle Cementerio #381, K’ara K’ara II, D13
+-17.323658,-66.124401, Calle Industrial #382, Cara Cara, D13
+-17.353949,-66.143542, Calle Ferrocarril #383, La Temible, D13
+-17.336309,-66.128205, Calle Tupiza #384, K’ara K’ara II, D13
+-17.315603,-66.150636, Calle Terminal #385, Cara Cara, D13
+-17.338444,-66.166793, Calle Cementerio #386, La Temible, D13
+-17.316557,-66.129957, Calle Industrial #387, K’ara K’ara II, D13
+-17.333993,-66.186286, Calle Ferrocarril #388, Cara Cara, D13
+-17.295905,-66.157459, Calle Tupiza #389, La Temible, D13
+-17.337805,-66.137489, Calle Terminal #390, K’ara K’ara II, D13
+-17.323995,-66.120806, Calle Cementerio #391, Cara Cara, D13
+-17.330714,-66.157522, Calle Industrial #392, La Temible, D13
+-17.301445,-66.141268, Calle Ferrocarril #393, K’ara K’ara II, D13
+-17.323963,-66.174928, Calle Tupiza #394, Cara Cara, D13
+-17.346686,-66.133219, Calle Terminal #395, La Temible, D13
+-17.305231,-66.127505, Calle Cementerio #396, K’ara K’ara II, D13
+-17.340963,-66.123240, Calle Industrial #397, Cara Cara, D13
+-17.358803,-66.134360, Calle Ferrocarril #398, La Temible, D13
+-17.322311,-66.167111, Calle Tupiza #399, K’ara K’ara II, D13
+-17.305240,-66.150282, Calle Terminal #400, Cara Cara, D13
+-17.341559,-66.131999, Calle Cementerio #401, La Temible, D13
+-17.291557,-66.147600, Calle Industrial #402, K’ara K’ara II, D13
+-17.324758,-66.141218, Calle Ferrocarril #403, Cara Cara, D13
+-17.345434,-66.158750, Calle Tupiza #404, La Temible, D13
+-17.304510,-66.131624, Calle Terminal #405, K’ara K’ara II, D13
+-17.307791,-66.130772, Calle Cementerio #406, Cara Cara, D13
+-17.324621,-66.125739, Calle Industrial #407, La Temible, D13
+-17.332626,-66.127003, Calle Ferrocarril #408, K’ara K’ara II, D13
+-17.342744,-66.163783, Calle Tupiza #409, Cara Cara, D13
+-17.294364,-66.133444, Calle Terminal #410, La Temible, D13
+-17.348776,-66.160499, Calle Cementerio #411, K’ara K’ara II, D13
+-17.356798,-66.135905, Calle Industrial #412, Cara Cara, D13
+-17.342988,-66.167509, Calle Ferrocarril #413, La Temible, D13
+-17.348907,-66.130989, Calle Tupiza #414, K’ara K’ara II, D13
+-17.300446,-66.133595, Calle Terminal #415, Cara Cara, D13
+-17.309099,-66.154504, Calle Cementerio #416, La Temible, D13
+-17.300330,-66.138195, Calle Industrial #417, K’ara K’ara II, D13
+-17.336194,-66.180004, Calle Ferrocarril #418, Cara Cara, D13
+-17.315164,-66.156027, Calle Tupiza #419, La Temible, D13
+-17.321309,-66.133044, Calle Terminal #420, K’ara K’ara II, D13
+-17.323098,-66.162485, Calle Cementerio #421, Cara Cara, D13
+-17.348904,-66.153512, Calle Industrial #422, La Temible, D13
+-17.303720,-66.129916, Calle Ferrocarril #423, K’ara K’ara II, D13
+-17.298178,-66.138664, Calle Tupiza #424, Cara Cara, D13
+-17.287452,-66.143352, Calle Terminal #425, La Temible, D13
+-17.321382,-66.137633, Calle Cementerio #426, K’ara K’ara II, D13
+-17.322818,-66.139302, Calle Industrial #427, Cara Cara, D13
+-17.348612,-66.150152, Calle Ferrocarril #428, La Temible, D13
+-17.293425,-66.128793, Calle Tupiza #429, K’ara K’ara II, D13
+-17.297685,-66.145589, Calle Terminal #430, Cara Cara, D13
+-17.329796,-66.136835, Calle Cementerio #431, La Temible, D13
+-17.356558,-66.127757, Calle Industrial #432, K’ara K’ara II, D13
+-17.307547,-66.153495, Calle Ferrocarril #433, Cara Cara, D13
+-17.331333,-66.141262, Calle Tupiza #434, La Temible, D13
+-17.351601,-66.123144, Calle Terminal #435, K’ara K’ara II, D13
+-17.333814,-66.126930, Calle Cementerio #436, Cara Cara, D13
+-17.316121,-66.151088, Calle Industrial #437, La Temible, D13
+-17.333103,-66.157412, Calle Ferrocarril #438, K’ara K’ara II, D13
+-17.315234,-66.151520, Calle Tupiza #439, Cara Cara, D13
+-17.291966,-66.143550, Calle Terminal #440, La Temible, D13
+-17.310246,-66.155208, Calle Cementerio #441, K’ara K’ara II, D13
+-17.293779,-66.152848, Calle Industrial #442, Cara Cara, D13
+-17.327785,-66.142207, Calle Ferrocarril #443, La Temible, D13
+-17.314698,-66.156338, Calle Tupiza #444, K’ara K’ara II, D13
+-17.350012,-66.120448, Calle Terminal #445, Cara Cara, D13
+-17.323737,-66.172362, Calle Cementerio #446, La Temible, D13
+-17.302770,-66.157796, Calle Industrial #447, K’ara K’ara II, D13
+-17.356457,-66.144590, Calle Ferrocarril #448, Cara Cara, D13
+-17.332247,-66.151231, Calle Tupiza #449, La Temible, D13
+-17.333389,-66.179778, Calle Terminal #450, K’ara K’ara II, D13
+-17.320194,-66.123780, Calle Cementerio #451, Cara Cara, D13
+-17.323306,-66.134894, Calle Industrial #452, La Temible, D13
+-17.359661,-66.113524, Calle Ferrocarril #453, K’ara K’ara II, D13
+-17.328679,-66.125369, Calle Tupiza #454, Cara Cara, D13
+-17.335034,-66.176573, Calle Terminal #455, La Temible, D13
+-17.346734,-66.139952, Calle Cementerio #456, K’ara K’ara II, D13
+-17.335722,-66.186579, Calle Industrial #457, Cara Cara, D13
+-17.315901,-66.122477, Calle Ferrocarril #458, La Temible, D13
+-17.311202,-66.129976, Calle Tupiza #459, K’ara K’ara II, D13
+-17.319925,-66.149329, Calle Terminal #460, Cara Cara, D13
+-17.292977,-66.147648, Calle Cementerio #461, La Temible, D13
+-17.305842,-66.130312, Calle Industrial #462, K’ara K’ara II, D13
+-17.350503,-66.150056, Calle Ferrocarril #463, Cara Cara, D13
+-17.309037,-66.125674, Calle Tupiza #464, La Temible, D13
+-17.333390,-66.166940, Calle Terminal #465, K’ara K’ara II, D13
+-17.309195,-66.138276, Calle Cementerio #466, Cara Cara, D13
+-17.337345,-66.153824, Calle Industrial #467, La Temible, D13
+-17.335298,-66.156738, Calle Ferrocarril #468, K’ara K’ara II, D13
+-17.333109,-66.153650, Calle Tupiza #469, Cara Cara, D13
+-17.338684,-66.141828, Calle Terminal #470, La Temible, D13
+-17.337547,-66.159870, Calle Cementerio #471, K’ara K’ara II, D13
+-17.321015,-66.153396, Calle Industrial #472, Cara Cara, D13
+-17.336901,-66.121407, Calle Ferrocarril #473, La Temible, D13
+-17.340980,-66.150240, Calle Tupiza #474, K’ara K’ara II, D13
+-17.315375,-66.153651, Calle Terminal #475, Cara Cara, D13
+-17.357333,-66.141078, Calle Cementerio #476, La Temible, D13
+-17.317139,-66.135267, Calle Industrial #477, K’ara K’ara II, D13
+-17.297309,-66.136053, Calle Ferrocarril #478, Cara Cara, D13
+-17.339190,-66.164397, Calle Tupiza #479, La Temible, D13
+-17.354647,-66.122963, Calle Terminal #480, K’ara K’ara II, D13
+-17.328350,-66.165159, Calle Cementerio #481, Cara Cara, D13
+-17.318711,-66.139288, Calle Industrial #482, La Temible, D13
+-17.320969,-66.168803, Calle Ferrocarril #483, K’ara K’ara II, D13
+-17.325487,-66.151945, Calle Tupiza #484, Cara Cara, D13
+-17.329626,-66.173078, Calle Terminal #485, La Temible, D13
+-17.288338,-66.136493, Calle Cementerio #486, K’ara K’ara II, D13
+-17.333675,-66.137282, Calle Industrial #487, Cara Cara, D13
+-17.305692,-66.129267, Calle Ferrocarril #488, La Temible, D13
+-17.334034,-66.161498, Calle Tupiza #489, K’ara K’ara II, D13
+-17.315356,-66.141633, Calle Terminal #490, Cara Cara, D13
+-17.339000,-66.169287, Calle Cementerio #491, La Temible, D13
+-17.334204,-66.125938, Calle Industrial #492, K’ara K’ara II, D13
+-17.317006,-66.132591, Calle Ferrocarril #493, Cara Cara, D13
+-17.325415,-66.177616, Calle Tupiza #494, La Temible, D13
+-17.351754,-66.125273, Calle Terminal #495, K’ara K’ara II, D13
+-17.293129,-66.139797, Calle Cementerio #496, Cara Cara, D13
+-17.345008,-66.158514, Calle Industrial #497, La Temible, D13
+-17.352687,-66.131546, Calle Ferrocarril #498, K’ara K’ara II, D13
+-17.345067,-66.123030, Calle Tupiza #499, Cara Cara, D13
+-17.334368,-66.161228, Calle Terminal #500, La Temible, D13
+-17.317515,-66.131867, Calle Cementerio #501, K’ara K’ara II, D13
+-17.339524,-66.145101, Calle Industrial #502, Cara Cara, D13
+-17.319103,-66.142847, Calle Ferrocarril #503, La Temible, D13
+-17.334231,-66.134838, Calle Tupiza #504, K’ara K’ara II, D13
+-17.302181,-66.130622, Calle Terminal #505, Cara Cara, D13
+-17.336643,-66.175834, Calle Cementerio #506, La Temible, D13
+-17.310607,-66.161679, Calle Industrial #507, K’ara K’ara II, D13
+-17.327908,-66.123698, Calle Ferrocarril #508, Cara Cara, D13
+-17.356503,-66.136494, Calle Tupiza #509, La Temible, D13
+-17.335308,-66.150216, Calle Terminal #510, K’ara K’ara II, D13
+-17.345939,-66.145921, Calle Cementerio #511, Cara Cara, D13
+-17.346296,-66.150287, Calle Industrial #512, La Temible, D13
+-17.350623,-66.126581, Calle Ferrocarril #513, K’ara K’ara II, D13
+-17.338050,-66.131817, Calle Tupiza #514, Cara Cara, D13
+-17.333093,-66.180560, Calle Terminal #515, La Temible, D13
+-17.327226,-66.178430, Calle Cementerio #516, K’ara K’ara II, D13
+-17.328240,-66.169421, Calle Industrial #517, Cara Cara, D13
+-17.362201,-66.112318, Calle Ferrocarril #518, La Temible, D13
+-17.352507,-66.137731, Calle Tupiza #519, K’ara K’ara II, D13
+-17.335126,-66.159611, Calle Terminal #520, Cara Cara, D13
+-17.308074,-66.159510, Calle Cementerio #521, La Temible, D13
+-17.312868,-66.144088, Calle Industrial #522, K’ara K’ara II, D13
+-17.342921,-66.151736, Calle Ferrocarril #523, Cara Cara, D13
+-17.319211,-66.152758, Calle Tupiza #524, La Temible, D13
+-17.341060,-66.132322, Calle Terminal #525, K’ara K’ara II, D13
+-17.333876,-66.177182, Calle Cementerio #526, Cara Cara, D13
+-17.312220,-66.153140, Calle Industrial #527, La Temible, D13
+-17.325427,-66.129702, Calle Ferrocarril #528, K’ara K’ara II, D13
+-17.332293,-66.124409, Calle Tupiza #529, Cara Cara, D13
+-17.322172,-66.127571, Calle Terminal #530, La Temible, D13
+-17.296933,-66.132197, Calle Cementerio #531, K’ara K’ara II, D13
+-17.345166,-66.165300, Calle Industrial #532, Cara Cara, D13
+-17.345735,-66.160851, Calle Ferrocarril #533, La Temible, D13
+-17.350700,-66.122036, Calle Tupiza #534, K’ara K’ara II, D13
+-17.353520,-66.126013, Calle Terminal #535, Cara Cara, D13
+-17.346529,-66.152730, Calle Cementerio #536, La Temible, D13
+-17.317951,-66.166813, Calle Industrial #537, K’ara K’ara II, D13
+-17.326666,-66.160915, Calle Ferrocarril #538, Cara Cara, D13
+-17.354091,-66.136093, Calle Tupiza #539, La Temible, D13
+-17.309520,-66.134783, Calle Terminal #540, K’ara K’ara II, D13
+-17.330221,-66.151773, Calle Cementerio #541, Cara Cara, D13
+-17.311917,-66.132185, Calle Industrial #542, La Temible, D13
+-17.288209,-66.135844, Calle Ferrocarril #543, K’ara K’ara II, D13
+-17.345275,-66.162702, Calle Tupiza #544, Cara Cara, D13
+-17.363005,-66.107194, Calle Terminal #545, La Temible, D13
+-17.338340,-66.152718, Calle Cementerio #546, K’ara K’ara II, D13
+-17.316334,-66.150788, Calle Industrial #547, Cara Cara, D13
+-17.314710,-66.157012, Calle Ferrocarril #548, La Temible, D13
+-17.307032,-66.141771, Calle Tupiza #549, K’ara K’ara II, D13
+-17.301403,-66.153670, Calle Terminal #550, Cara Cara, D13
+-17.290811,-66.149677, Calle Cementerio #551, La Temible, D13
+-17.354312,-66.133925, Calle Industrial #552, K’ara K’ara II, D13
+-17.355440,-66.125314, Calle Ferrocarril #553, Cara Cara, D13
+-17.331726,-66.130914, Calle Tupiza #554, La Temible, D13
+-17.336471,-66.121321, Calle Terminal #555, K’ara K’ara II, D13
+-17.356315,-66.110497, Calle Cementerio #556, Cara Cara, D13
+-17.322395,-66.173417, Calle Industrial #557, La Temible, D13
+-17.294335,-66.141113, Calle Ferrocarril #558, K’ara K’ara II, D13
+-17.357827,-66.120051, Calle Tupiza #559, Cara Cara, D13
+-17.314184,-66.140320, Calle Terminal #560, La Temible, D13
+-17.346082,-66.140941, Calle Cementerio #561, K’ara K’ara II, D13
+-17.331354,-66.169614, Calle Industrial #562, Cara Cara, D13
+-17.301476,-66.140600, Calle Ferrocarril #563, La Temible, D13
+-17.326605,-66.164709, Calle Tupiza #564, K’ara K’ara II, D13
+-17.306793,-66.153720, Calle Terminal #565, Cara Cara, D13
+-17.341084,-66.147119, Calle Cementerio #566, La Temible, D13
+-17.356872,-66.140799, Calle Industrial #567, K’ara K’ara II, D13
+-17.289319,-66.138226, Calle Ferrocarril #568, Cara Cara, D13
+-17.289417,-66.140484, Calle Tupiza #569, La Temible, D13
+-17.338715,-66.137318, Calle Terminal #570, K’ara K’ara II, D13
+-17.331161,-66.174999, Calle Cementerio #571, Cara Cara, D13
+-17.316809,-66.145294, Calle Industrial #572, La Temible, D13
+-17.337975,-66.178653, Calle Ferrocarril #573, K’ara K’ara II, D13
+-17.305484,-66.150380, Calle Tupiza #574, Cara Cara, D13
+-17.351629,-66.125313, Calle Terminal #575, La Temible, D13
+-17.346348,-66.119687, Calle Cementerio #576, K’ara K’ara II, D13
+-17.346670,-66.160708, Calle Industrial #577, Cara Cara, D13
+-17.305738,-66.127277, Calle Ferrocarril #578, La Temible, D13
+-17.352028,-66.129998, Calle Tupiza #579, K’ara K’ara II, D13
+-17.355051,-66.114260, Calle Terminal #580, Cara Cara, D13
+-17.310697,-66.132791, Calle Cementerio #581, La Temible, D13
+-17.324683,-66.127952, Calle Industrial #582, K’ara K’ara II, D13
+-17.322701,-66.145176, Calle Ferrocarril #583, Cara Cara, D13
+-17.288506,-66.147185, Calle Tupiza #584, La Temible, D13
+-17.318937,-66.152073, Calle Terminal #585, K’ara K’ara II, D13
+-17.329898,-66.123804, Calle Cementerio #586, Cara Cara, D13
+-17.329242,-66.139411, Calle Industrial #587, La Temible, D13
+-17.339191,-66.176986, Calle Ferrocarril #588, K’ara K’ara II, D13
+-17.333936,-66.153893, Calle Tupiza #589, Cara Cara, D13
+-17.340435,-66.171131, Calle Terminal #590, La Temible, D13
+-17.306033,-66.146471, Calle Cementerio #591, K’ara K’ara II, D13
+-17.340663,-66.160466, Calle Industrial #592, Cara Cara, D13
+-17.320999,-66.163446, Calle Ferrocarril #593, La Temible, D13
+-17.331371,-66.119304, Calle Tupiza #594, K’ara K’ara II, D13
+-17.344611,-66.139857, Calle Terminal #595, Cara Cara, D13
+-17.327658,-66.135839, Calle Cementerio #596, La Temible, D13
+-17.346795,-66.121442, Calle Industrial #597, K’ara K’ara II, D13
+-17.334060,-66.175856, Calle Ferrocarril #598, Cara Cara, D13
+-17.294926,-66.150857, Calle Tupiza #599, La Temible, D13
+-17.292646,-66.129730, Calle Terminal #600, K’ara K’ara II, D13
+-17.343586,-66.128308, Calle Cementerio #601, Cara Cara, D13
+-17.290748,-66.138693, Calle Industrial #602, La Temible, D13
+-17.340211,-66.175080, Calle Ferrocarril #603, K’ara K’ara II, D13
+-17.341304,-66.164526, Calle Tupiza #604, Cara Cara, D13
+-17.300135,-66.150146, Calle Terminal #605, La Temible, D13
+-17.341178,-66.159457, Calle Cementerio #606, K’ara K’ara II, D13
+-17.338084,-66.129793, Calle Industrial #607, Cara Cara, D13
+-17.302008,-66.154038, Calle Ferrocarril #608, La Temible, D13
+-17.332241,-66.124525, Calle Tupiza #609, K’ara K’ara II, D13
+-17.352874,-66.125266, Calle Terminal #610, Cara Cara, D13
+-17.332847,-66.180504, Calle Cementerio #611, La Temible, D13
+-17.326768,-66.135533, Calle Industrial #612, K’ara K’ara II, D13
+-17.307916,-66.139630, Calle Ferrocarril #613, Cara Cara, D13
+-17.299404,-66.142086, Calle Tupiza #614, La Temible, D13
+-17.307711,-66.141771, Calle Terminal #615, K’ara K’ara II, D13
+-17.317201,-66.151791, Calle Cementerio #616, Cara Cara, D13
+-17.352986,-66.138820, Calle Industrial #617, La Temible, D13
+-17.302528,-66.133411, Calle Ferrocarril #618, K’ara K’ara II, D13
+-17.353062,-66.142916, Calle Tupiza #619, Cara Cara, D13
+-17.293039,-66.143047, Calle Terminal #620, La Temible, D13
+-17.313860,-66.125699, Calle Cementerio #621, K’ara K’ara II, D13
+-17.320602,-66.139585, Calle Industrial #622, Cara Cara, D13
+-17.355569,-66.125654, Calle Ferrocarril #623, La Temible, D13
+-17.349767,-66.150027, Calle Tupiza #624, K’ara K’ara II, D13
+-17.305268,-66.162190, Calle Terminal #625, Cara Cara, D13
+-17.336982,-66.122311, Calle Cementerio #626, La Temible, D13
+-17.324219,-66.151452, Calle Industrial #627, K’ara K’ara II, D13
+-17.324240,-66.125056, Calle Ferrocarril #628, Cara Cara, D13
+-17.329325,-66.148953, Calle Tupiza #629, La Temible, D13
+-17.299334,-66.157479, Calle Terminal #630, K’ara K’ara II, D13
+-17.348322,-66.123674, Calle Cementerio #631, Cara Cara, D13
+-17.332745,-66.151841, Calle Industrial #632, La Temible, D13
+-17.351516,-66.128620, Calle Ferrocarril #633, K’ara K’ara II, D13
+-17.351637,-66.142292, Calle Tupiza #634, Cara Cara, D13
+-17.361825,-66.115151, Calle Terminal #635, La Temible, D13
+-17.318307,-66.142338, Calle Cementerio #636, K’ara K’ara II, D13
+-17.320809,-66.142628, Calle Industrial #637, Cara Cara, D13
+-17.353291,-66.141242, Calle Ferrocarril #638, La Temible, D13
+-17.352380,-66.150304, Calle Tupiza #639, K’ara K’ara II, D13
+-17.318031,-66.124303, Calle Terminal #640, Cara Cara, D13
+-17.352782,-66.154166, Calle Cementerio #641, La Temible, D13
+-17.303695,-66.151140, Calle Industrial #642, K’ara K’ara II, D13
+-17.307280,-66.153112, Calle Ferrocarril #643, Cara Cara, D13
+-17.345903,-66.164340, Calle Tupiza #644, La Temible, D13
+-17.347687,-66.161725, Calle Terminal #645, K’ara K’ara II, D13
+-17.335508,-66.143895, Calle Cementerio #646, Cara Cara, D13
+-17.343230,-66.167131, Calle Industrial #647, La Temible, D13
+-17.317916,-66.131690, Calle Ferrocarril #648, K’ara K’ara II, D13
+-17.326635,-66.148969, Calle Tupiza #649, Cara Cara, D13
+-17.308854,-66.149992, Calle Terminal #650, La Temible, D13
+-17.335897,-66.160767, Calle Cementerio #651, K’ara K’ara II, D13
+-17.313928,-66.136402, Calle Industrial #652, Cara Cara, D13
+-17.300757,-66.160583, Calle Ferrocarril #653, La Temible, D13
+-17.316498,-66.161452, Calle Tupiza #654, K’ara K’ara II, D13
+-17.325949,-66.167859, Calle Terminal #655, Cara Cara, D13
+-17.341895,-66.143705, Calle Cementerio #656, La Temible, D13
+-17.296476,-66.150734, Calle Industrial #657, K’ara K’ara II, D13
+-17.331845,-66.175097, Calle Ferrocarril #658, Cara Cara, D13
+-17.336685,-66.156561, Calle Tupiza #659, La Temible, D13
+-17.328682,-66.155537, Calle Terminal #660, K’ara K’ara II, D13
+-17.303732,-66.139460, Calle Cementerio #661, Cara Cara, D13
+-17.304226,-66.156803, Calle Industrial #662, La Temible, D13
+-17.321369,-66.142683, Calle Ferrocarril #663, K’ara K’ara II, D13
+-17.319987,-66.134560, Calle Tupiza #664, Cara Cara, D13
+-17.323656,-66.125980, Calle Terminal #665, La Temible, D13
+-17.343876,-66.141529, Calle Cementerio #666, K’ara K’ara II, D13
+-17.325342,-66.153199, Calle Industrial #667, Cara Cara, D13
+-17.319808,-66.142691, Calle Ferrocarril #668, La Temible, D13
+-17.307163,-66.146637, Calle Tupiza #669, K’ara K’ara II, D13
+-17.336900,-66.149678, Calle Terminal #670, Cara Cara, D13
+-17.317267,-66.166794, Calle Cementerio #671, La Temible, D13
+-17.339486,-66.139706, Calle Industrial #672, K’ara K’ara II, D13
+-17.351829,-66.116024, Calle Ferrocarril #673, Cara Cara, D13
+-17.340840,-66.140317, Calle Tupiza #674, La Temible, D13
+-17.288450,-66.138760, Calle Terminal #675, K’ara K’ara II, D13
+-17.340308,-66.147980, Calle Cementerio #676, Cara Cara, D13
+-17.294281,-66.135926, Calle Industrial #677, La Temible, D13
+-17.358386,-66.135457, Calle Ferrocarril #678, K’ara K’ara II, D13
+-17.331500,-66.152139, Calle Tupiza #679, Cara Cara, D13
+-17.355580,-66.118607, Calle Terminal #680, La Temible, D13
+-17.296890,-66.156656, Calle Cementerio #681, K’ara K’ara II, D13
+-17.335669,-66.179084, Calle Industrial #682, Cara Cara, D13
+-17.329766,-66.130186, Calle Ferrocarril #683, La Temible, D13
+-17.333004,-66.143616, Calle Tupiza #684, K’ara K’ara II, D13
+-17.312382,-66.163223, Calle Terminal #685, Cara Cara, D13
+-17.330435,-66.180135, Calle Cementerio #686, La Temible, D13
+-17.337052,-66.148117, Calle Industrial #687, K’ara K’ara II, D13
+-17.327476,-66.176412, Calle Ferrocarril #688, Cara Cara, D13
+-17.351119,-66.122908, Calle Tupiza #689, La Temible, D13
+-17.323370,-66.169757, Calle Terminal #690, K’ara K’ara II, D13
+-17.308104,-66.134472, Calle Cementerio #691, Cara Cara, D13
+-17.363144,-66.114184, Calle Industrial #692, La Temible, D13
+-17.313539,-66.157060, Calle Ferrocarril #693, K’ara K’ara II, D13
+-17.318967,-66.148615, Calle Tupiza #694, Cara Cara, D13
+-17.319948,-66.125306, Calle Terminal #695, La Temible, D13
+-17.324903,-66.156810, Calle Cementerio #696, K’ara K’ara II, D13
+-17.335339,-66.186970, Calle Industrial #697, Cara Cara, D13
+-17.304282,-66.133589, Calle Ferrocarril #698, La Temible, D13
+-17.313056,-66.122809, Calle Tupiza #699, K’ara K’ara II, D13
+-17.349327,-66.124778, Calle Terminal #700, Cara Cara, D13
+-17.328359,-66.139121, Calle Cementerio #701, La Temible, D13
+-17.289370,-66.140728, Calle Industrial #702, K’ara K’ara II, D13
+-17.311456,-66.131568, Calle Ferrocarril #703, Cara Cara, D13
+-17.342441,-66.155789, Calle Tupiza #704, La Temible, D13
+-17.315443,-66.134681, Calle Terminal #705, K’ara K’ara II, D13
+-17.342341,-66.134420, Calle Cementerio #706, Cara Cara, D13
+-17.320664,-66.136115, Calle Industrial #707, La Temible, D13
+-17.333547,-66.120860, Calle Ferrocarril #708, K’ara K’ara II, D13
+-17.312842,-66.153267, Calle Tupiza #709, Cara Cara, D13
+-17.336613,-66.170167, Calle Terminal #710, La Temible, D13
+-17.304330,-66.127982, Calle Cementerio #711, K’ara K’ara II, D13
+-17.312260,-66.162647, Calle Industrial #712, Cara Cara, D13
+-17.351356,-66.137849, Calle Ferrocarril #713, La Temible, D13
+-17.321216,-66.127221, Calle Tupiza #714, K’ara K’ara II, D13
+-17.300951,-66.140713, Calle Terminal #715, Cara Cara, D13
+-17.328639,-66.155004, Calle Cementerio #716, La Temible, D13
+-17.331353,-66.181975, Calle Industrial #717, K’ara K’ara II, D13
+-17.342734,-66.138809, Calle Ferrocarril #718, Cara Cara, D13
+-17.331853,-66.122526, Calle Tupiza #719, La Temible, D13
+-17.336504,-66.164184, Calle Terminal #720, K’ara K’ara II, D13
+-17.314890,-66.127309, Calle Cementerio #721, Cara Cara, D13
+-17.321478,-66.134135, Calle Industrial #722, La Temible, D13
+-17.362465,-66.106738, Calle Ferrocarril #723, K’ara K’ara II, D13
+-17.335203,-66.141855, Calle Tupiza #724, Cara Cara, D13
+-17.324007,-66.128114, Calle Terminal #725, La Temible, D13
+-17.342452,-66.159977, Calle Cementerio #726, K’ara K’ara II, D13
+-17.322242,-66.143704, Calle Industrial #727, Cara Cara, D13
+-17.294422,-66.136959, Calle Ferrocarril #728, La Temible, D13
+-17.296995,-66.140318, Calle Tupiza #729, K’ara K’ara II, D13
+-17.343693,-66.161252, Calle Terminal #730, Cara Cara, D13
+-17.342560,-66.145067, Calle Cementerio #731, La Temible, D13
+-17.344223,-66.127987, Calle Industrial #732, K’ara K’ara II, D13
+-17.311588,-66.130612, Calle Ferrocarril #733, Cara Cara, D13
+-17.321495,-66.145165, Calle Tupiza #734, La Temible, D13
+-17.332186,-66.120367, Calle Terminal #735, K’ara K’ara II, D13
+-17.313426,-66.122377, Calle Cementerio #736, Cara Cara, D13
+-17.317697,-66.152933, Calle Industrial #737, La Temible, D13
+-17.335782,-66.129650, Calle Ferrocarril #738, K’ara K’ara II, D13
+-17.327166,-66.130654, Calle Tupiza #739, Cara Cara, D13
+-17.308750,-66.139847, Calle Terminal #740, La Temible, D13
+-17.356916,-66.121757, Calle Cementerio #741, K’ara K’ara II, D13
+-17.320291,-66.166273, Calle Industrial #742, Cara Cara, D13
+-17.358015,-66.114510, Calle Ferrocarril #743, La Temible, D13
+-17.324357,-66.122098, Calle Tupiza #744, K’ara K’ara II, D13
+-17.360105,-66.127543, Calle Terminal #745, Cara Cara, D13
+-17.328445,-66.166239, Calle Cementerio #746, La Temible, D13
+-17.306007,-66.158026, Calle Industrial #747, K’ara K’ara II, D13
+-17.294666,-66.152133, Calle Ferrocarril #748, Cara Cara, D13
+-17.347251,-66.131811, Calle Tupiza #749, La Temible, D13
+-17.357172,-66.140231, Calle Terminal #750, K’ara K’ara II, D13
+-17.343517,-66.154246, Calle Cementerio #751, Cara Cara, D13
+-17.297736,-66.154638, Calle Industrial #752, La Temible, D13
+-17.343027,-66.140773, Calle Ferrocarril #753, K’ara K’ara II, D13
+-17.318411,-66.141914, Calle Tupiza #754, Cara Cara, D13
+-17.336707,-66.176208, Calle Terminal #755, La Temible, D13
+-17.314632,-66.146032, Calle Cementerio #756, K’ara K’ara II, D13
+-17.356340,-66.131610, Calle Industrial #757, Cara Cara, D13
+-17.322306,-66.136561, Calle Ferrocarril #758, La Temible, D13
+-17.341365,-66.133698, Calle Tupiza #759, K’ara K’ara II, D13
+-17.322707,-66.132201, Calle Terminal #760, Cara Cara, D13
+-17.341250,-66.167710, Calle Cementerio #761, La Temible, D13
+-17.349780,-66.158924, Calle Industrial #762, K’ara K’ara II, D13
+-17.328370,-66.133093, Calle Ferrocarril #763, Cara Cara, D13
+-17.349584,-66.116858, Calle Tupiza #764, La Temible, D13
+-17.334589,-66.135864, Calle Terminal #765, K’ara K’ara II, D13
+-17.345537,-66.164728, Calle Cementerio #766, Cara Cara, D13
+-17.329508,-66.130912, Calle Industrial #767, La Temible, D13
+-17.338091,-66.129135, Calle Ferrocarril #768, K’ara K’ara II, D13
+-17.357223,-66.122717, Calle Tupiza #769, Cara Cara, D13
+-17.330317,-66.151378, Calle Terminal #770, La Temible, D13
+-17.342772,-66.146071, Calle Cementerio #771, K’ara K’ara II, D13
+-17.294209,-66.140912, Calle Industrial #772, Cara Cara, D13
+-17.306954,-66.162682, Calle Ferrocarril #773, La Temible, D13
+-17.327553,-66.132667, Calle Tupiza #774, K’ara K’ara II, D13
+-17.300362,-66.131347, Calle Terminal #775, Cara Cara, D13
+-17.296720,-66.131857, Calle Cementerio #776, La Temible, D13
+-17.329217,-66.123567, Calle Industrial #777, K’ara K’ara II, D13
+-17.361533,-66.116779, Calle Ferrocarril #778, Cara Cara, D13
+-17.304508,-66.161511, Calle Tupiza #779, La Temible, D13
+-17.341422,-66.123836, Calle Terminal #780, K’ara K’ara II, D13
+-17.316718,-66.154904, Calle Cementerio #781, Cara Cara, D13
+-17.358292,-66.131597, Calle Industrial #782, La Temible, D13
+-17.336714,-66.144697, Calle Ferrocarril #783, K’ara K’ara II, D13
+-17.339348,-66.122029, Calle Tupiza #784, Cara Cara, D13
+-17.313961,-66.134043, Calle Terminal #785, La Temible, D13
+-17.325363,-66.144598, Calle Cementerio #786, K’ara K’ara II, D13
+-17.346653,-66.123470, Calle Industrial #787, Cara Cara, D13
+-17.300616,-66.152767, Calle Ferrocarril #788, La Temible, D13
+-17.345497,-66.156419, Calle Tupiza #789, K’ara K’ara II, D13
+-17.324120,-66.161782, Calle Terminal #790, Cara Cara, D13
+-17.289692,-66.137868, Calle Cementerio #791, La Temible, D13
+-17.326480,-66.171583, Calle Industrial #792, K’ara K’ara II, D13
+-17.297200,-66.144438, Calle Ferrocarril #793, Cara Cara, D13
+-17.299150,-66.157188, Calle Tupiza #794, La Temible, D13
+-17.314287,-66.156193, Calle Terminal #795, K’ara K’ara II, D13
+-17.292017,-66.152357, Calle Cementerio #796, Cara Cara, D13
+-17.341070,-66.167887, Calle Industrial #797, La Temible, D13
+-17.348344,-66.135872, Calle Ferrocarril #798, K’ara K’ara II, D13
+-17.349756,-66.135727, Calle Tupiza #799, Cara Cara, D13
+-17.352409,-66.141993, Calle Terminal #800, La Temible, D13
+-17.317092,-66.130140, Calle Cementerio #801, K’ara K’ara II, D13
+-17.310256,-66.148080, Calle Industrial #802, Cara Cara, D13
+-17.331616,-66.161809, Calle Ferrocarril #803, La Temible, D13
+-17.305573,-66.134026, Calle Tupiza #804, K’ara K’ara II, D13
+-17.333489,-66.159245, Calle Terminal #805, Cara Cara, D13
+-17.293070,-66.142930, Calle Cementerio #806, La Temible, D13
+-17.312978,-66.161534, Calle Industrial #807, K’ara K’ara II, D13
+-17.310197,-66.144721, Calle Ferrocarril #808, Cara Cara, D13
+-17.342656,-66.152340, Calle Tupiza #809, La Temible, D13
+-17.318977,-66.126224, Calle Terminal #810, K’ara K’ara II, D13
+-17.312756,-66.145670, Calle Cementerio #811, Cara Cara, D13
+-17.352709,-66.153058, Calle Industrial #812, La Temible, D13
+-17.331807,-66.143084, Calle Ferrocarril #813, K’ara K’ara II, D13
+-17.317190,-66.144717, Calle Tupiza #814, Cara Cara, D13
+-17.322727,-66.124300, Calle Terminal #815, La Temible, D13
+-17.290920,-66.137285, Calle Cementerio #816, K’ara K’ara II, D13
+-17.303109,-66.144850, Calle Industrial #817, Cara Cara, D13
+-17.357812,-66.131868, Calle Ferrocarril #818, La Temible, D13
+-17.351482,-66.149907, Calle Tupiza #819, K’ara K’ara II, D13
+-17.355077,-66.138426, Calle Terminal #820, Cara Cara, D13
+-17.352181,-66.144084, Calle Cementerio #821, La Temible, D13
+-17.349149,-66.137751, Calle Industrial #822, K’ara K’ara II, D13
+-17.333212,-66.121688, Calle Ferrocarril #823, Cara Cara, D13
+-17.322042,-66.154448, Calle Tupiza #824, La Temible, D13
+-17.333515,-66.151080, Calle Terminal #825, K’ara K’ara II, D13
+-17.355244,-66.127550, Calle Cementerio #826, Cara Cara, D13
+-17.334697,-66.141877, Calle Industrial #827, La Temible, D13
+-17.299530,-66.144238, Calle Ferrocarril #828, K’ara K’ara II, D13
+-17.337103,-66.137393, Calle Tupiza #829, Cara Cara, D13
+-17.313735,-66.149277, Calle Terminal #830, La Temible, D13
+-17.346180,-66.144549, Calle Cementerio #831, K’ara K’ara II, D13
+-17.297852,-66.152895, Calle Industrial #832, Cara Cara, D13
+-17.330307,-66.161049, Calle Ferrocarril #833, La Temible, D13
+-17.356401,-66.129669, Calle Tupiza #834, K’ara K’ara II, D13
+-17.297021,-66.129811, Calle Terminal #835, Cara Cara, D13
+-17.297063,-66.142308, Calle Cementerio #836, La Temible, D13
+-17.339396,-66.137027, Calle Industrial #837, K’ara K’ara II, D13
+-17.352931,-66.133184, Calle Ferrocarril #838, Cara Cara, D13
+-17.311832,-66.130410, Calle Tupiza #839, La Temible, D13
+-17.350157,-66.148838, Calle Terminal #840, K’ara K’ara II, D13
+-17.322850,-66.148226, Calle Cementerio #841, Cara Cara, D13
+-17.358362,-66.107646, Calle Industrial #842, La Temible, D13
+-17.347082,-66.157195, Calle Ferrocarril #843, K’ara K’ara II, D13
+-17.361230,-66.114304, Calle Tupiza #844, Cara Cara, D13
+-17.348467,-66.147360, Calle Terminal #845, La Temible, D13
+-17.357161,-66.129575, Calle Cementerio #846, K’ara K’ara II, D13
+-17.314771,-66.129335, Calle Industrial #847, Cara Cara, D13
+-17.308700,-66.151604, Calle Ferrocarril #848, La Temible, D13
+-17.325878,-66.122627, Calle Tupiza #849, K’ara K’ara II, D13
+-17.350852,-66.117031, Calle Terminal #850, Cara Cara, D13
+-17.332946,-66.168841, Calle Cementerio #851, La Temible, D13
+-17.349246,-66.117911, Calle Industrial #852, K’ara K’ara II, D13
+-17.336634,-66.168953, Calle Ferrocarril #853, Cara Cara, D13
+-17.295275,-66.137674, Calle Tupiza #854, La Temible, D13
+-17.290533,-66.146447, Calle Terminal #855, K’ara K’ara II, D13
+-17.344424,-66.133272, Calle Cementerio #856, Cara Cara, D13
+-17.301401,-66.145368, Calle Industrial #857, La Temible, D13
+-17.340858,-66.137563, Calle Ferrocarril #858, K’ara K’ara II, D13
+-17.319587,-66.144687, Calle Tupiza #859, Cara Cara, D13
+-17.290151,-66.150896, Calle Terminal #860, La Temible, D13
+-17.350497,-66.137364, Calle Cementerio #861, K’ara K’ara II, D13
+-17.319019,-66.126575, Calle Industrial #862, Cara Cara, D13
+-17.297603,-66.143441, Calle Ferrocarril #863, La Temible, D13
+-17.347363,-66.158698, Calle Tupiza #864, K’ara K’ara II, D13
+-17.355835,-66.131426, Calle Terminal #865, Cara Cara, D13
+-17.304940,-66.161441, Calle Cementerio #866, La Temible, D13
+-17.301164,-66.135758, Calle Industrial #867, K’ara K’ara II, D13
+-17.332711,-66.138688, Calle Ferrocarril #868, Cara Cara, D13
+-17.320290,-66.162485, Calle Tupiza #869, La Temible, D13
+-17.319543,-66.160781, Calle Terminal #870, K’ara K’ara II, D13
+-17.334981,-66.167859, Calle Cementerio #871, Cara Cara, D13
+-17.309735,-66.143724, Calle Industrial #872, La Temible, D13
+-17.338645,-66.165122, Calle Ferrocarril #873, K’ara K’ara II, D13
+-17.337904,-66.132156, Calle Tupiza #874, Cara Cara, D13
+-17.348048,-66.128443, Calle Terminal #875, La Temible, D13
+-17.297151,-66.145603, Calle Cementerio #876, K’ara K’ara II, D13
+-17.324473,-66.135261, Calle Industrial #877, Cara Cara, D13
+-17.319513,-66.131140, Calle Ferrocarril #878, La Temible, D13
+-17.302714,-66.133095, Calle Tupiza #879, K’ara K’ara II, D13
+-17.292319,-66.151128, Calle Terminal #880, Cara Cara, D13
+-17.347736,-66.161295, Calle Cementerio #881, La Temible, D13
+-17.347410,-66.144754, Calle Industrial #882, K’ara K’ara II, D13
+-17.311942,-66.158284, Calle Ferrocarril #883, Cara Cara, D13
+-17.334758,-66.175391, Calle Tupiza #884, La Temible, D13
+-17.323902,-66.155393, Calle Terminal #885, K’ara K’ara II, D13
+-17.327613,-66.121753, Calle Cementerio #886, Cara Cara, D13
+-17.347010,-66.161719, Calle Industrial #887, La Temible, D13
+-17.334440,-66.144907, Calle Ferrocarril #888, K’ara K’ara II, D13
+-17.329003,-66.178307, Calle Tupiza #889, Cara Cara, D13
+-17.342721,-66.165405, Calle Terminal #890, La Temible, D13
+-17.339563,-66.130807, Calle Cementerio #891, K’ara K’ara II, D13
+-17.360241,-66.111312, Calle Industrial #892, Cara Cara, D13
+-17.350462,-66.123064, Calle Ferrocarril #893, La Temible, D13
+-17.357398,-66.115387, Calle Tupiza #894, K’ara K’ara II, D13
+-17.328171,-66.129146, Calle Terminal #895, Cara Cara, D13
+-17.333089,-66.128090, Calle Cementerio #896, La Temible, D13
+-17.350686,-66.137864, Calle Industrial #897, K’ara K’ara II, D13
+-17.315054,-66.146384, Calle Ferrocarril #898, Cara Cara, D13
+-17.300470,-66.132451, Calle Tupiza #899, La Temible, D13
+-17.355193,-66.116697, Calle Terminal #900, K’ara K’ara II, D13
+-17.337603,-66.138616, Calle Cementerio #901, Cara Cara, D13
+-17.320153,-66.153246, Calle Industrial #902, La Temible, D13
+-17.340836,-66.143020, Calle Ferrocarril #903, K’ara K’ara II, D13
+-17.290579,-66.136294, Calle Tupiza #904, Cara Cara, D13
+-17.319563,-66.149771, Calle Terminal #905, La Temible, D13
+-17.354484,-66.117387, Calle Cementerio #906, K’ara K’ara II, D13
+-17.356910,-66.132221, Calle Industrial #907, Cara Cara, D13
+-17.332766,-66.158793, Calle Ferrocarril #908, La Temible, D13
+-17.326608,-66.131793, Calle Tupiza #909, K’ara K’ara II, D13
+-17.313242,-66.125762, Calle Terminal #910, Cara Cara, D13
+-17.308755,-66.138586, Calle Cementerio #911, La Temible, D13
+-17.320628,-66.154915, Calle Industrial #912, K’ara K’ara II, D13
+-17.336355,-66.176537, Calle Ferrocarril #913, Cara Cara, D13
+-17.328768,-66.147223, Calle Tupiza #914, La Temible, D13
+-17.343400,-66.122347, Calle Terminal #915, K’ara K’ara II, D13
+-17.310468,-66.138117, Calle Cementerio #916, Cara Cara, D13
+-17.309845,-66.124950, Calle Industrial #917, La Temible, D13
+-17.343207,-66.129357, Calle Ferrocarril #918, K’ara K’ara II, D13
+-17.309791,-66.125244, Calle Tupiza #919, Cara Cara, D13
+-17.328979,-66.122379, Calle Terminal #920, La Temible, D13
+-17.327067,-66.174701, Calle Cementerio #921, K’ara K’ara II, D13
+-17.299683,-66.128625, Calle Industrial #922, Cara Cara, D13
+-17.319692,-66.153100, Calle Ferrocarril #923, La Temible, D13
+-17.350560,-66.132947, Calle Tupiza #924, K’ara K’ara II, D13
+-17.293603,-66.148410, Calle Terminal #925, Cara Cara, D13
+-17.330979,-66.123524, Calle Cementerio #926, La Temible, D13
+-17.317907,-66.127624, Calle Industrial #927, K’ara K’ara II, D13
+-17.345157,-66.161850, Calle Ferrocarril #928, Cara Cara, D13
+-17.352931,-66.124785, Calle Tupiza #929, La Temible, D13
+-17.307879,-66.139235, Calle Terminal #930, K’ara K’ara II, D13
+-17.344581,-66.161138, Calle Cementerio #931, Cara Cara, D13
+-17.301080,-66.131721, Calle Industrial #932, La Temible, D13
+-17.328472,-66.141129, Calle Ferrocarril #933, K’ara K’ara II, D13
+-17.297535,-66.139741, Calle Tupiza #934, Cara Cara, D13
+-17.316155,-66.122339, Calle Terminal #935, La Temible, D13
+-17.321924,-66.123587, Calle Cementerio #936, K’ara K’ara II, D13
+-17.335113,-66.157604, Calle Industrial #937, Cara Cara, D13
+-17.289631,-66.141442, Calle Ferrocarril #938, La Temible, D13
+-17.318320,-66.149340, Calle Tupiza #939, K’ara K’ara II, D13
+-17.333271,-66.159082, Calle Terminal #940, Cara Cara, D13
+-17.331601,-66.127637, Calle Cementerio #941, La Temible, D13
+-17.346952,-66.162249, Calle Industrial #942, K’ara K’ara II, D13
+-17.339302,-66.152516, Calle Ferrocarril #943, Cara Cara, D13
+-17.334866,-66.142971, Calle Tupiza #944, La Temible, D13
+-17.296899,-66.149592, Calle Terminal #945, K’ara K’ara II, D13
+-17.309069,-66.163259, Calle Cementerio #946, Cara Cara, D13
+-17.338759,-66.148360, Calle Industrial #947, La Temible, D13
+-17.338534,-66.175541, Calle Ferrocarril #948, K’ara K’ara II, D13
+-17.360034,-66.118409, Calle Tupiza #949, Cara Cara, D13
+-17.291221,-66.152557, Calle Terminal #950, La Temible, D13
+-17.326496,-66.118805, Calle Cementerio #951, K’ara K’ara II, D13
+-17.289788,-66.145942, Calle Industrial #952, Cara Cara, D13
+-17.357772,-66.118093, Calle Ferrocarril #953, La Temible, D13
+-17.305774,-66.158270, Calle Tupiza #954, K’ara K’ara II, D13
+-17.305689,-66.156423, Calle Terminal #955, Cara Cara, D13
+-17.332046,-66.146977, Calle Cementerio #956, La Temible, D13
+-17.290796,-66.133654, Calle Industrial #957, K’ara K’ara II, D13
+-17.313527,-66.126991, Calle Ferrocarril #958, Cara Cara, D13
+-17.355496,-66.144688, Calle Tupiza #959, La Temible, D13
+-17.317478,-66.156022, Calle Terminal #960, K’ara K’ara II, D13
+-17.336195,-66.151503, Calle Cementerio #961, Cara Cara, D13
+-17.321434,-66.135520, Calle Industrial #962, La Temible, D13
+-17.337807,-66.132914, Calle Ferrocarril #963, K’ara K’ara II, D13
+-17.357221,-66.112563, Calle Tupiza #964, Cara Cara, D13
+-17.328519,-66.135653, Calle Terminal #965, La Temible, D13
+-17.322653,-66.144597, Calle Cementerio #966, K’ara K’ara II, D13
+-17.330030,-66.134359, Calle Industrial #967, Cara Cara, D13
+-17.304509,-66.154693, Calle Ferrocarril #968, La Temible, D13
+-17.359811,-66.131050, Calle Tupiza #969, K’ara K’ara II, D13
+-17.315544,-66.135175, Calle Terminal #970, Cara Cara, D13
+-17.328066,-66.132520, Calle Cementerio #971, La Temible, D13
+-17.308993,-66.141485, Calle Industrial #972, K’ara K’ara II, D13
+-17.314902,-66.141142, Calle Ferrocarril #973, Cara Cara, D13
+-17.305822,-66.143376, Calle Tupiza #974, La Temible, D13
+-17.335787,-66.169232, Calle Terminal #975, K’ara K’ara II, D13
+-17.307084,-66.148022, Calle Cementerio #976, Cara Cara, D13
+-17.334284,-66.174883, Calle Industrial #977, La Temible, D13
+-17.337414,-66.130010, Calle Ferrocarril #978, K’ara K’ara II, D13
+-17.359376,-66.124006, Calle Tupiza #979, Cara Cara, D13
+-17.356121,-66.111425, Calle Terminal #980, La Temible, D13
+-17.346071,-66.163835, Calle Cementerio #981, K’ara K’ara II, D13
+-17.330082,-66.128944, Calle Industrial #982, Cara Cara, D13
+-17.353908,-66.116310, Calle Ferrocarril #983, La Temible, D13
+-17.359357,-66.124972, Calle Tupiza #984, K’ara K’ara II, D13
+-17.327950,-66.144676, Calle Terminal #985, Cara Cara, D13
+-17.344773,-66.158681, Calle Cementerio #986, La Temible, D13
+-17.344253,-66.149818, Calle Industrial #987, K’ara K’ara II, D13
+-17.335293,-66.149443, Calle Ferrocarril #988, Cara Cara, D13
+-17.300835,-66.153411, Calle Tupiza #989, La Temible, D13
+-17.311868,-66.142148, Calle Terminal #990, K’ara K’ara II, D13
+-17.301064,-66.154204, Calle Cementerio #991, Cara Cara, D13
+-17.333612,-66.132816, Calle Industrial #992, La Temible, D13
+-17.342506,-66.164766, Calle Ferrocarril #993, K’ara K’ara II, D13
+-17.347674,-66.134652, Calle Tupiza #994, Cara Cara, D13
+-17.352583,-66.116888, Calle Terminal #995, La Temible, D13
+-17.310103,-66.131903, Calle Cementerio #996, K’ara K’ara II, D13
+-17.299075,-66.143112, Calle Industrial #997, Cara Cara, D13
+-17.327389,-66.148389, Calle Ferrocarril #998, La Temible, D13
+-17.359383,-66.123570, Calle Tupiza #999, K’ara K’ara II, D13
+-17.341396,-66.159928, Calle Terminal #1000, Cara Cara, D13
+-17.333585,-66.135080, Calle Cementerio #1001, La Temible, D13
+-17.303373,-66.146587, Calle Industrial #1002, K’ara K’ara II, D13
+-17.314369,-66.164688, Calle Ferrocarril #1003, Cara Cara, D13
+-17.318164,-66.140903, Calle Tupiza #1004, La Temible, D13
+-17.357508,-66.111888, Calle Terminal #1005, K’ara K’ara II, D13
+-17.305188,-66.141179, Calle Cementerio #1006, Cara Cara, D13
+-17.335487,-66.171064, Calle Industrial #1007, La Temible, D13
+-17.304612,-66.136555, Calle Ferrocarril #1008, K’ara K’ara II, D13
+-17.324576,-66.157105, Calle Tupiza #1009, Cara Cara, D13
+-17.311377,-66.151246, Calle Terminal #1010, La Temible, D13
+-17.316189,-66.145051, Calle Cementerio #1011, K’ara K’ara II, D13
+-17.357061,-66.127531, Calle Industrial #1012, Cara Cara, D13
+-17.298153,-66.139349, Calle Ferrocarril #1013, La Temible, D13
+-17.339900,-66.120648, Calle Tupiza #1014, K’ara K’ara II, D13
+-17.336149,-66.165105, Calle Terminal #1015, Cara Cara, D13
+-17.331792,-66.132143, Calle Cementerio #1016, La Temible, D13
+-17.293469,-66.152242, Calle Industrial #1017, K’ara K’ara II, D13
+-17.327266,-66.148730, Calle Ferrocarril #1018, Cara Cara, D13
+-17.352826,-66.150088, Calle Tupiza #1019, La Temible, D13
+-17.344081,-66.128042, Calle Terminal #1020, K’ara K’ara II, D13
+-17.359714,-66.116228, Calle Cementerio #1021, Cara Cara, D13
+-17.320602,-66.135610, Calle Industrial #1022, La Temible, D13
+-17.300291,-66.135976, Calle Ferrocarril #1023, K’ara K’ara II, D13
+-17.331805,-66.132518, Calle Tupiza #1024, Cara Cara, D13
+-17.329416,-66.149119, Calle Terminal #1025, La Temible, D13
+-17.340824,-66.152843, Calle Cementerio #1026, K’ara K’ara II, D13
+-17.347418,-66.151473, Calle Industrial #1027, Cara Cara, D13
+-17.293995,-66.147945, Calle Ferrocarril #1028, La Temible, D13
+-17.337475,-66.158459, Calle Tupiza #1029, K’ara K’ara II, D13
+-17.355500,-66.120434, Calle Terminal #1030, Cara Cara, D13
+-17.322231,-66.168924, Calle Cementerio #1031, La Temible, D13
+-17.323035,-66.165498, Calle Industrial #1032, K’ara K’ara II, D13
+-17.337936,-66.131059, Calle Ferrocarril #1033, Cara Cara, D13
+-17.319446,-66.163279, Calle Tupiza #1034, La Temible, D13
+-17.329247,-66.147979, Calle Terminal #1035, K’ara K’ara II, D13
+-17.305435,-66.139791, Calle Cementerio #1036, Cara Cara, D13
+-17.355834,-66.139655, Calle Industrial #1037, La Temible, D13
+-17.328950,-66.176170, Calle Ferrocarril #1038, K’ara K’ara II, D13
+-17.303353,-66.151310, Calle Tupiza #1039, Cara Cara, D13
+-17.310666,-66.156669, Calle Terminal #1040, La Temible, D13
+-17.334942,-66.127068, Calle Cementerio #1041, K’ara K’ara II, D13
+-17.343430,-66.125332, Calle Industrial #1042, Cara Cara, D13
+-17.333222,-66.140548, Calle Ferrocarril #1043, La Temible, D13
+-17.341859,-66.143985, Calle Tupiza #1044, K’ara K’ara II, D13
+-17.335056,-66.167289, Calle Terminal #1045, Cara Cara, D13
+-17.314721,-66.163257, Calle Cementerio #1046, La Temible, D13
+-17.325722,-66.147967, Calle Industrial #1047, K’ara K’ara II, D13
+-17.322669,-66.139348, Calle Ferrocarril #1048, Cara Cara, D13
+-17.335070,-66.165452, Calle Tupiza #1049, La Temible, D13
+-17.309217,-66.142211, Calle Terminal #1050, K’ara K’ara II, D13
+-17.359755,-66.128870, Calle Cementerio #1051, Cara Cara, D13
+-17.342322,-66.138716, Calle Industrial #1052, La Temible, D13
+-17.326687,-66.132958, Calle Ferrocarril #1053, K’ara K’ara II, D13
+-17.357850,-66.115318, Calle Tupiza #1054, Cara Cara, D13
+-17.338782,-66.158704, Calle Terminal #1055, La Temible, D13
+-17.346517,-66.137131, Calle Cementerio #1056, K’ara K’ara II, D13
+-17.319097,-66.166955, Calle Industrial #1057, Cara Cara, D13
+-17.337760,-66.120497, Calle Ferrocarril #1058, La Temible, D13
+-17.317841,-66.145686, Calle Tupiza #1059, K’ara K’ara II, D13
+-17.347322,-66.153562, Calle Terminal #1060, Cara Cara, D13
+-17.357814,-66.124758, Calle Cementerio #1061, La Temible, D13
+-17.321337,-66.150914, Calle Industrial #1062, K’ara K’ara II, D13
+-17.295930,-66.139222, Calle Ferrocarril #1063, Cara Cara, D13
+-17.332663,-66.163243, Calle Tupiza #1064, La Temible, D13
+-17.316387,-66.142661, Calle Terminal #1065, K’ara K’ara II, D13
+-17.323246,-66.137966, Calle Cementerio #1066, Cara Cara, D13
+-17.312182,-66.154674, Calle Industrial #1067, La Temible, D13
+-17.328546,-66.135245, Calle Ferrocarril #1068, K’ara K’ara II, D13
+-17.346330,-66.135511, Calle Tupiza #1069, Cara Cara, D13
+-17.298692,-66.127238, Calle Terminal #1070, La Temible, D13
+-17.320555,-66.153905, Calle Cementerio #1071, K’ara K’ara II, D13
+-17.351680,-66.136454, Calle Industrial #1072, Cara Cara, D13
+-17.319947,-66.126966, Calle Ferrocarril #1073, La Temible, D13
+-17.325649,-66.172866, Calle Tupiza #1074, K’ara K’ara II, D13
+-17.331251,-66.143039, Calle Terminal #1075, Cara Cara, D13
+-17.304383,-66.145387, Calle Cementerio #1076, La Temible, D13
+-17.348314,-66.128422, Calle Industrial #1077, K’ara K’ara II, D13
+-17.340894,-66.120636, Calle Ferrocarril #1078, Cara Cara, D13
+-17.300483,-66.134849, Calle Tupiza #1079, La Temible, D13
+-17.352283,-66.148252, Calle Terminal #1080, K’ara K’ara II, D13
+-17.349900,-66.116848, Calle Cementerio #1081, Cara Cara, D13
+-17.304482,-66.137565, Calle Industrial #1082, La Temible, D13
+-17.331981,-66.130154, Calle Ferrocarril #1083, K’ara K’ara II, D13
+-17.308966,-66.147741, Calle Tupiza #1084, Cara Cara, D13
+-17.297811,-66.151443, Calle Terminal #1085, La Temible, D13
+-17.305228,-66.144397, Calle Cementerio #1086, K’ara K’ara II, D13
+-17.298849,-66.127640, Calle Industrial #1087, Cara Cara, D13
+-17.352851,-66.140054, Calle Ferrocarril #1088, La Temible, D13
+-17.356405,-66.130351, Calle Tupiza #1089, K’ara K’ara II, D13
+-17.332876,-66.176389, Calle Terminal #1090, Cara Cara, D13
+-17.335360,-66.140803, Calle Cementerio #1091, La Temible, D13
+-17.330394,-66.120729, Calle Industrial #1092, K’ara K’ara II, D13
+-17.311791,-66.162949, Calle Ferrocarril #1093, Cara Cara, D13
+-17.311497,-66.139290, Calle Tupiza #1094, La Temible, D13
+-17.351590,-66.147260, Calle Terminal #1095, K’ara K’ara II, D13
+-17.333478,-66.123327, Calle Cementerio #1096, Cara Cara, D13
+-17.322688,-66.154374, Calle Industrial #1097, La Temible, D13
+-17.303795,-66.154283, Calle Ferrocarril #1098, K’ara K’ara II, D13
+-17.349811,-66.149284, Calle Tupiza #1099, Cara Cara, D13
+-17.334978,-66.177076, Calle Terminal #1100, La Temible, D13
+-17.332178,-66.183831, Calle Cementerio #1101, K’ara K’ara II, D13
+-17.297094,-66.146670, Calle Industrial #1102, Cara Cara, D13
+-17.308997,-66.138272, Calle Ferrocarril #1103, La Temible, D13
+-17.333641,-66.130674, Calle Tupiza #1104, K’ara K’ara II, D13
+-17.310905,-66.158223, Calle Terminal #1105, Cara Cara, D13
+-17.358092,-66.135170, Calle Cementerio #1106, La Temible, D13
+-17.312497,-66.156407, Calle Industrial #1107, K’ara K’ara II, D13
+-17.294499,-66.130995, Calle Ferrocarril #1108, Cara Cara, D13
+-17.336939,-66.168557, Calle Tupiza #1109, La Temible, D13
+-17.348174,-66.126751, Calle Terminal #1110, K’ara K’ara II, D13
+-17.293217,-66.143495, Calle Cementerio #1111, Cara Cara, D13
+-17.297943,-66.155056, Calle Industrial #1112, La Temible, D13
+-17.295295,-66.153996, Calle Ferrocarril #1113, K’ara K’ara II, D13
+-17.292804,-66.144994, Calle Tupiza #1114, Cara Cara, D13
+-17.356550,-66.113144, Calle Terminal #1115, La Temible, D13
+-17.339168,-66.158521, Calle Cementerio #1116, K’ara K’ara II, D13
+-17.340099,-66.151953, Calle Industrial #1117, Cara Cara, D13
+-17.336667,-66.166038, Calle Ferrocarril #1118, La Temible, D13
+-17.323980,-66.146037, Calle Tupiza #1119, K’ara K’ara II, D13
+-17.348485,-66.143248, Calle Terminal #1120, Cara Cara, D13
+-17.333385,-66.131525, Calle Cementerio #1121, La Temible, D13
+-17.353869,-66.128733, Calle Industrial #1122, K’ara K’ara II, D13
+-17.336135,-66.169300, Calle Ferrocarril #1123, Cara Cara, D13
+-17.337664,-66.149635, Calle Tupiza #1124, La Temible, D13
+-17.337184,-66.145018, Calle Terminal #1125, K’ara K’ara II, D13
+-17.337121,-66.124987, Calle Cementerio #1126, Cara Cara, D13
+-17.328959,-66.133088, Calle Industrial #1127, La Temible, D13
+-17.339362,-66.135467, Calle Ferrocarril #1128, K’ara K’ara II, D13
+-17.322363,-66.155161, Calle Tupiza #1129, Cara Cara, D13
+-17.316779,-66.150035, Calle Terminal #1130, La Temible, D13
+-17.311448,-66.136317, Calle Cementerio #1131, K’ara K’ara II, D13
+-17.326420,-66.130747, Calle Industrial #1132, Cara Cara, D13
+-17.327386,-66.160973, Calle Ferrocarril #1133, La Temible, D13
+-17.335260,-66.153480, Calle Tupiza #1134, K’ara K’ara II, D13
+-17.306681,-66.129540, Calle Terminal #1135, Cara Cara, D13
+-17.358770,-66.111916, Calle Cementerio #1136, La Temible, D13
+-17.310093,-66.131409, Calle Industrial #1137, K’ara K’ara II, D13
+-17.305291,-66.154440, Calle Ferrocarril #1138, Cara Cara, D13
+-17.339835,-66.175607, Calle Tupiza #1139, La Temible, D13
+-17.315468,-66.144035, Calle Terminal #1140, K’ara K’ara II, D13
+-17.315332,-66.124768, Calle Cementerio #1141, Cara Cara, D13
+-17.328426,-66.164061, Calle Industrial #1142, La Temible, D13
+-17.295185,-66.150855, Calle Ferrocarril #1143, K’ara K’ara II, D13
+-17.327360,-66.131200, Calle Tupiza #1144, Cara Cara, D13
+-17.311549,-66.127004, Calle Terminal #1145, La Temible, D13
+-17.345204,-66.150813, Calle Cementerio #1146, K’ara K’ara II, D13
+-17.314328,-66.150448, Calle Industrial #1147, Cara Cara, D13
+-17.327291,-66.131792, Calle Ferrocarril #1148, La Temible, D13
+-17.344443,-66.123076, Calle Tupiza #1149, K’ara K’ara II, D13
+-17.337600,-66.141403, Calle Terminal #1150, Cara Cara, D13
+-17.342241,-66.130468, Calle Cementerio #1151, La Temible, D13
+-17.298381,-66.150629, Calle Industrial #1152, K’ara K’ara II, D13
+-17.356477,-66.112590, Calle Ferrocarril #1153, Cara Cara, D13
+-17.330670,-66.165190, Calle Tupiza #1154, La Temible, D13
+-17.333525,-66.170395, Calle Terminal #1155, K’ara K’ara II, D13
+-17.338041,-66.158730, Calle Cementerio #1156, Cara Cara, D13
+-17.302100,-66.154982, Calle Industrial #1157, La Temible, D13
+-17.315513,-66.137277, Calle Ferrocarril #1158, K’ara K’ara II, D13
+-17.355028,-66.114271, Calle Tupiza #1159, Cara Cara, D13
+-17.316184,-66.121199, Calle Terminal #1160, La Temible, D13
+-17.338484,-66.177330, Calle Cementerio #1161, K’ara K’ara II, D13
+-17.318710,-66.142087, Calle Industrial #1162, Cara Cara, D13
+-17.304435,-66.133506, Calle Ferrocarril #1163, La Temible, D13
+-17.358162,-66.130277, Calle Tupiza #1164, K’ara K’ara II, D13
+-17.349636,-66.148504, Calle Terminal #1165, Cara Cara, D13
+-17.320521,-66.171567, Calle Cementerio #1166, La Temible, D13
+-17.334344,-66.150676, Calle Industrial #1167, K’ara K’ara II, D13
+-17.345489,-66.119811, Calle Ferrocarril #1168, Cara Cara, D13
+-17.310137,-66.151445, Calle Tupiza #1169, La Temible, D13
+-17.318084,-66.142078, Calle Terminal #1170, K’ara K’ara II, D13
+-17.338640,-66.135805, Calle Cementerio #1171, Cara Cara, D13
+-17.361566,-66.120313, Calle Industrial #1172, La Temible, D13
+-17.346012,-66.155590, Calle Ferrocarril #1173, K’ara K’ara II, D13
+-17.331966,-66.148503, Calle Tupiza #1174, Cara Cara, D13
+-17.316175,-66.139210, Calle Terminal #1175, La Temible, D13
+-17.300519,-66.133023, Calle Cementerio #1176, K’ara K’ara II, D13
+-17.292407,-66.149521, Calle Industrial #1177, Cara Cara, D13
+-17.342767,-66.150305, Calle Ferrocarril #1178, La Temible, D13
+-17.344940,-66.136257, Calle Tupiza #1179, K’ara K’ara II, D13
+-17.326085,-66.120686, Calle Terminal #1180, Cara Cara, D13
+-17.306362,-66.153094, Calle Cementerio #1181, La Temible, D13
+-17.359421,-66.110709, Calle Industrial #1182, K’ara K’ara II, D13
+-17.338412,-66.177045, Calle Ferrocarril #1183, Cara Cara, D13
+-17.350052,-66.129863, Calle Tupiza #1184, La Temible, D13
+-17.336852,-66.159485, Calle Terminal #1185, K’ara K’ara II, D13
+-17.307213,-66.126858, Calle Cementerio #1186, Cara Cara, D13
+-17.291431,-66.151001, Calle Industrial #1187, La Temible, D13
+-17.310055,-66.133519, Calle Ferrocarril #1188, K’ara K’ara II, D13
+-17.327241,-66.148879, Calle Tupiza #1189, Cara Cara, D13
+-17.342718,-66.158848, Calle Terminal #1190, La Temible, D13
+-17.325253,-66.170410, Calle Cementerio #1191, K’ara K’ara II, D13
+-17.291997,-66.144869, Calle Industrial #1192, Cara Cara, D13
+-17.359832,-66.123907, Calle Ferrocarril #1193, La Temible, D13
+-17.313088,-66.147392, Calle Tupiza #1194, K’ara K’ara II, D13
+-17.347669,-66.154868, Calle Terminal #1195, Cara Cara, D13
+-17.327355,-66.143215, Calle Cementerio #1196, La Temible, D13
+-17.325508,-66.165997, Calle Industrial #1197, K’ara K’ara II, D13
+-17.304102,-66.137331, Calle Ferrocarril #1198, Cara Cara, D13
+-17.352287,-66.140857, Calle Tupiza #1199, La Temible, D13
+-17.310435,-66.160464, Calle Terminal #1200, K’ara K’ara II, D13
+-17.353536,-66.151918, Calle Cementerio #1201, Cara Cara, D13
+-17.313216,-66.155697, Calle Industrial #1202, La Temible, D13
+-17.305517,-66.147158, Calle Ferrocarril #1203, K’ara K’ara II, D13
+-17.326309,-66.158083, Calle Tupiza #1204, Cara Cara, D13
+-17.356549,-66.129953, Calle Terminal #1205, La Temible, D13
+-17.289911,-66.151109, Calle Cementerio #1206, K’ara K’ara II, D13
+-17.299130,-66.152558, Calle Industrial #1207, Cara Cara, D13
+-17.332609,-66.165745, Calle Ferrocarril #1208, La Temible, D13
+-17.335103,-66.187955, Calle Tupiza #1209, K’ara K’ara II, D13
+-17.291265,-66.137405, Calle Terminal #1210, Cara Cara, D13
+-17.305913,-66.140679, Calle Cementerio #1211, La Temible, D13
+-17.311342,-66.163300, Calle Industrial #1212, K’ara K’ara II, D13
+-17.344158,-66.158856, Calle Ferrocarril #1213, Cara Cara, D13
+-17.357607,-66.113584, Calle Tupiza #1214, La Temible, D13
+-17.304122,-66.150102, Calle Terminal #1215, K’ara K’ara II, D13
+-17.326035,-66.119638, Calle Cementerio #1216, Cara Cara, D13
+-17.334332,-66.164033, Calle Industrial #1217, La Temible, D13
+-17.293158,-66.139262, Calle Ferrocarril #1218, K’ara K’ara II, D13
+-17.336685,-66.133358, Calle Tupiza #1219, Cara Cara, D13
+-17.338806,-66.164755, Calle Terminal #1220, La Temible, D13
+-17.334970,-66.178970, Calle Cementerio #1221, K’ara K’ara II, D13
+-17.320273,-66.158802, Calle Industrial #1222, Cara Cara, D13
+-17.323563,-66.148060, Calle Ferrocarril #1223, La Temible, D13
+-17.353034,-66.116346, Calle Tupiza #1224, K’ara K’ara II, D13
+-17.346799,-66.153449, Calle Terminal #1225, Cara Cara, D13
+-17.290795,-66.152545, Calle Cementerio #1226, La Temible, D13
+-17.318042,-66.139790, Calle Industrial #1227, K’ara K’ara II, D13
+-17.327490,-66.129025, Calle Ferrocarril #1228, Cara Cara, D13
+-17.337569,-66.149555, Calle Tupiza #1229, La Temible, D13
+-17.301842,-66.160367, Calle Terminal #1230, K’ara K’ara II, D13
+-17.344685,-66.128210, Calle Cementerio #1231, Cara Cara, D13
+-17.337593,-66.142531, Calle Industrial #1232, La Temible, D13
+-17.326333,-66.119183, Calle Ferrocarril #1233, K’ara K’ara II, D13
+-17.344326,-66.131114, Calle Tupiza #1234, Cara Cara, D13
+-17.339420,-66.141974, Calle Terminal #1235, La Temible, D13
+-17.334895,-66.138472, Calle Cementerio #1236, K’ara K’ara II, D13
+-17.338969,-66.123392, Calle Industrial #1237, Cara Cara, D13
+-17.340381,-66.175357, Calle Ferrocarril #1238, La Temible, D13
+-17.335233,-66.141951, Calle Tupiza #1239, K’ara K’ara II, D13
+-17.346673,-66.152577, Calle Terminal #1240, Cara Cara, D13
+-17.316640,-66.133882, Calle Cementerio #1241, La Temible, D13
+-17.296241,-66.146086, Calle Industrial #1242, K’ara K’ara II, D13
+-17.334343,-66.171582, Calle Ferrocarril #1243, Cara Cara, D13
+-17.307814,-66.149955, Calle Tupiza #1244, La Temible, D13
+-17.349152,-66.135846, Calle Terminal #1245, K’ara K’ara II, D13
+-17.342323,-66.150400, Calle Cementerio #1246, Cara Cara, D13
+-17.327466,-66.152369, Calle Industrial #1247, La Temible, D13
+-17.359436,-66.127967, Calle Ferrocarril #1248, K’ara K’ara II, D13
+-17.311934,-66.155696, Calle Tupiza #1249, Cara Cara, D13
+-17.350613,-66.143682, Calle Terminal #1250, La Temible, D13
+-17.349977,-66.154349, Calle Cementerio #1251, K’ara K’ara II, D13
+-17.327120,-66.171210, Calle Industrial #1252, Cara Cara, D13
+-17.340716,-66.171124, Calle Ferrocarril #1253, La Temible, D13
+-17.294844,-66.154166, Calle Tupiza #1254, K’ara K’ara II, D13
+-17.355049,-66.116222, Calle Terminal #1255, Cara Cara, D13
+-17.341295,-66.143281, Calle Cementerio #1256, La Temible, D13
+-17.338968,-66.143511, Calle Industrial #1257, K’ara K’ara II, D13
+-17.320535,-66.135168, Calle Ferrocarril #1258, Cara Cara, D13
+-17.345912,-66.120285, Calle Tupiza #1259, La Temible, D13
+-17.356285,-66.127766, Calle Terminal #1260, K’ara K’ara II, D13
+-17.325191,-66.124691, Calle Cementerio #1261, Cara Cara, D13
+-17.342770,-66.156617, Calle Industrial #1262, La Temible, D13
+-17.349958,-66.119590, Calle Ferrocarril #1263, K’ara K’ara II, D13
+-17.295445,-66.146155, Calle Tupiza #1264, Cara Cara, D13
+-17.294673,-66.129396, Calle Terminal #1265, La Temible, D13
+-17.340760,-66.129856, Calle Cementerio #1266, K’ara K’ara II, D13
+-17.315860,-66.144711, Calle Industrial #1267, Cara Cara, D13
+-17.346337,-66.148865, Calle Ferrocarril #1268, La Temible, D13
+-17.323000,-66.150100, Calle Tupiza #1269, K’ara K’ara II, D13
+-17.326458,-66.159027, Calle Terminal #1270, Cara Cara, D13
+-17.297771,-66.140591, Calle Cementerio #1271, La Temible, D13
+-17.340683,-66.120889, Calle Industrial #1272, K’ara K’ara II, D13
+-17.297862,-66.133259, Calle Ferrocarril #1273, Cara Cara, D13
+-17.296198,-66.151451, Calle Tupiza #1274, La Temible, D13
+-17.313912,-66.151095, Calle Terminal #1275, K’ara K’ara II, D13
+-17.330981,-66.182828, Calle Cementerio #1276, Cara Cara, D13
+-17.322802,-66.170122, Calle Industrial #1277, La Temible, D13
+-17.305417,-66.149962, Calle Ferrocarril #1278, K’ara K’ara II, D13
+-17.349516,-66.150211, Calle Tupiza #1279, Cara Cara, D13
+-17.319984,-66.143704, Calle Terminal #1280, La Temible, D13
+-17.355879,-66.139366, Calle Cementerio #1281, K’ara K’ara II, D13
+-17.361725,-66.109322, Calle Industrial #1282, Cara Cara, D13
+-17.308530,-66.130873, Calle Ferrocarril #1283, La Temible, D13
+-17.316985,-66.166310, Calle Tupiza #1284, K’ara K’ara II, D13
+-17.339154,-66.168200, Calle Terminal #1285, Cara Cara, D13
+-17.321956,-66.119826, Calle Cementerio #1286, La Temible, D13
+-17.297129,-66.151508, Calle Industrial #1287, K’ara K’ara II, D13
+-17.325293,-66.158672, Calle Ferrocarril #1288, Cara Cara, D13
+-17.293334,-66.146986, Calle Tupiza #1289, La Temible, D13
+-17.304249,-66.133019, Calle Terminal #1290, K’ara K’ara II, D13
+-17.352632,-66.144262, Calle Cementerio #1291, Cara Cara, D13
+-17.329355,-66.146612, Calle Industrial #1292, La Temible, D13
+-17.338575,-66.135705, Calle Ferrocarril #1293, K’ara K’ara II, D13
+-17.354458,-66.136447, Calle Tupiza #1294, Cara Cara, D13
+-17.327464,-66.164767, Calle Terminal #1295, La Temible, D13
+-17.291446,-66.131573, Calle Cementerio #1296, K’ara K’ara II, D13
+-17.319845,-66.155546, Calle Industrial #1297, Cara Cara, D13
+-17.342143,-66.124940, Calle Ferrocarril #1298, La Temible, D13
+-17.323888,-66.157865, Calle Tupiza #1299, K’ara K’ara II, D13
+-17.310430,-66.135041, Calle Terminal #1300, Cara Cara, D13
+-17.332547,-66.178649, Calle Cementerio #1301, La Temible, D13
+-17.337793,-66.138910, Calle Industrial #1302, K’ara K’ara II, D13
+-17.314531,-66.137668, Calle Ferrocarril #1303, Cara Cara, D13
+-17.352730,-66.147648, Calle Tupiza #1304, La Temible, D13
+-17.320516,-66.149540, Calle Terminal #1305, K’ara K’ara II, D13
+-17.324201,-66.152103, Calle Cementerio #1306, Cara Cara, D13
+-17.289182,-66.148815, Calle Industrial #1307, La Temible, D13
+-17.339253,-66.160930, Calle Ferrocarril #1308, K’ara K’ara II, D13
+-17.350894,-66.152626, Calle Tupiza #1309, Cara Cara, D13
+-17.351252,-66.142882, Calle Terminal #1310, La Temible, D13
+-17.345896,-66.122716, Calle Cementerio #1311, K’ara K’ara II, D13
+-17.342036,-66.124262, Calle Industrial #1312, Cara Cara, D13
+-17.335764,-66.173753, Calle Ferrocarril #1313, La Temible, D13
+-17.337503,-66.170211, Calle Tupiza #1314, K’ara K’ara II, D13
+-17.293791,-66.129520, Calle Terminal #1315, Cara Cara, D13
+-17.312216,-66.146256, Calle Cementerio #1316, La Temible, D13
+-17.356008,-66.121656, Calle Industrial #1317, K’ara K’ara II, D13
+-17.327807,-66.157110, Calle Ferrocarril #1318, Cara Cara, D13
+-17.325243,-66.152222, Calle Tupiza #1319, La Temible, D13
+-17.357877,-66.117252, Calle Terminal #1320, K’ara K’ara II, D13
+-17.328639,-66.135380, Calle Cementerio #1321, Cara Cara, D13
+-17.329557,-66.130226, Calle Industrial #1322, La Temible, D13
+-17.317625,-66.162680, Calle Ferrocarril #1323, K’ara K’ara II, D13
+-17.349285,-66.136874, Calle Tupiza #1324, Cara Cara, D13
+-17.327702,-66.177963, Calle Terminal #1325, La Temible, D13
+-17.321188,-66.163790, Calle Cementerio #1326, K’ara K’ara II, D13
+-17.342201,-66.147024, Calle Industrial #1327, Cara Cara, D13
+-17.350920,-66.135575, Calle Ferrocarril #1328, La Temible, D13
+-17.328176,-66.148642, Calle Tupiza #1329, K’ara K’ara II, D13
+-17.342443,-66.120941, Calle Terminal #1330, Cara Cara, D13
+-17.345317,-66.130094, Calle Cementerio #1331, La Temible, D13
+-17.313744,-66.156724, Calle Industrial #1332, K’ara K’ara II, D13
+-17.321424,-66.172640, Calle Ferrocarril #1333, Cara Cara, D13
+-17.306821,-66.135153, Calle Tupiza #1334, La Temible, D13
+-17.348112,-66.149329, Calle Terminal #1335, K’ara K’ara II, D13
+-17.308675,-66.150953, Calle Cementerio #1336, Cara Cara, D13
+-17.328610,-66.141022, Calle Industrial #1337, La Temible, D13
+-17.344700,-66.139624, Calle Ferrocarril #1338, K’ara K’ara II, D13
+-17.310685,-66.153519, Calle Tupiza #1339, Cara Cara, D13
+-17.332324,-66.175882, Calle Terminal #1340, La Temible, D13
+-17.354676,-66.126247, Calle Cementerio #1341, K’ara K’ara II, D13
+-17.313602,-66.122145, Calle Industrial #1342, Cara Cara, D13
+-17.338452,-66.145390, Calle Ferrocarril #1343, La Temible, D13
+-17.292538,-66.137837, Calle Tupiza #1344, K’ara K’ara II, D13
+-17.358597,-66.115027, Calle Terminal #1345, Cara Cara, D13
+-17.306000,-66.155038, Calle Cementerio #1346, La Temible, D13
+-17.324852,-66.157546, Calle Industrial #1347, K’ara K’ara II, D13
+-17.316382,-66.156245, Calle Ferrocarril #1348, Cara Cara, D13
+-17.318112,-66.162003, Calle Tupiza #1349, La Temible, D13
+-17.338707,-66.153451, Calle Terminal #1350, K’ara K’ara II, D13
+-17.302728,-66.140108, Calle Cementerio #1351, Cara Cara, D13
+-17.360427,-66.110749, Calle Industrial #1352, La Temible, D13
+-17.340183,-66.135748, Calle Ferrocarril #1353, K’ara K’ara II, D13
+-17.331503,-66.182259, Calle Tupiza #1354, Cara Cara, D13
+-17.363401,-66.112111, Calle Terminal #1355, La Temible, D13
+-17.316958,-66.155884, Calle Cementerio #1356, K’ara K’ara II, D13
+-17.346794,-66.140714, Calle Industrial #1357, Cara Cara, D13
+-17.351364,-66.118817, Calle Ferrocarril #1358, La Temible, D13
+-17.303687,-66.140896, Calle Tupiza #1359, K’ara K’ara II, D13
+-17.311553,-66.129662, Calle Terminal #1360, Cara Cara, D13
+-17.323891,-66.143829, Calle Cementerio #1361, La Temible, D13
+-17.333866,-66.168431, Calle Industrial #1362, K’ara K’ara II, D13
+-17.302395,-66.150250, Calle Ferrocarril #1363, Cara Cara, D13
+-17.334663,-66.169228, Calle Tupiza #1364, La Temible, D13
+-17.323765,-66.157037, Calle Terminal #1365, K’ara K’ara II, D13
+-17.352309,-66.145953, Calle Cementerio #1366, Cara Cara, D13
+-17.350227,-66.135348, Calle Industrial #1367, La Temible, D13
+-17.317789,-66.156104, Calle Ferrocarril #1368, K’ara K’ara II, D13
+-17.326898,-66.165227, Calle Tupiza #1369, Cara Cara, D13
+-17.342177,-66.121304, Calle Terminal #1370, La Temible, D13
+-17.302118,-66.149646, Calle Cementerio #1371, K’ara K’ara II, D13
+-17.291226,-66.139808, Calle Industrial #1372, Cara Cara, D13
+-17.293932,-66.137443, Calle Ferrocarril #1373, La Temible, D13
+-17.310453,-66.154504, Calle Tupiza #1374, K’ara K’ara II, D13
+-17.329084,-66.141557, Calle Terminal #1375, Cara Cara, D13
+-17.349995,-66.131326, Calle Cementerio #1376, La Temible, D13
+-17.339014,-66.139842, Calle Industrial #1377, K’ara K’ara II, D13
+-17.323130,-66.143389, Calle Ferrocarril #1378, Cara Cara, D13
+-17.288131,-66.135772, Calle Tupiza #1379, La Temible, D13
+-17.314255,-66.129783, Calle Terminal #1380, K’ara K’ara II, D13
+-17.352070,-66.148554, Calle Cementerio #1381, Cara Cara, D13
+-17.354837,-66.141687, Calle Industrial #1382, La Temible, D13
+-17.335354,-66.179944, Calle Ferrocarril #1383, K’ara K’ara II, D13
+-17.356615,-66.122620, Calle Tupiza #1384, Cara Cara, D13
+-17.322412,-66.163265, Calle Terminal #1385, La Temible, D13
+-17.298256,-66.134093, Calle Cementerio #1386, K’ara K’ara II, D13
+-17.320989,-66.162244, Calle Industrial #1387, Cara Cara, D13
+-17.297998,-66.139488, Calle Ferrocarril #1388, La Temible, D13
+-17.325737,-66.124860, Calle Tupiza #1389, K’ara K’ara II, D13
+-17.357921,-66.139366, Calle Terminal #1390, Cara Cara, D13
+-17.325717,-66.147907, Calle Cementerio #1391, La Temible, D13
+-17.352891,-66.141626, Calle Industrial #1392, K’ara K’ara II, D13
+-17.321770,-66.167694, Calle Ferrocarril #1393, Cara Cara, D13
+-17.299443,-66.127231, Calle Tupiza #1394, La Temible, D13
+-17.332334,-66.167022, Calle Terminal #1395, K’ara K’ara II, D13
+-17.346234,-66.163695, Calle Cementerio #1396, Cara Cara, D13
+-17.358813,-66.118429, Calle Industrial #1397, La Temible, D13
+-17.352156,-66.147684, Calle Ferrocarril #1398, K’ara K’ara II, D13
+-17.323204,-66.121509, Calle Tupiza #1399, Cara Cara, D13
+-17.330986,-66.172150, Calle Terminal #1400, La Temible, D13
+-17.343812,-66.134587, Calle Cementerio #1401, K’ara K’ara II, D13
+-17.312338,-66.150929, Calle Industrial #1402, Cara Cara, D13
+-17.338812,-66.128372, Calle Ferrocarril #1403, La Temible, D13
+-17.308996,-66.128070, Calle Tupiza #1404, K’ara K’ara II, D13
+-17.355003,-66.145932, Calle Terminal #1405, Cara Cara, D13
+-17.356425,-66.141953, Calle Cementerio #1406, La Temible, D13
+-17.324087,-66.137819, Calle Industrial #1407, K’ara K’ara II, D13
+-17.334243,-66.182382, Calle Ferrocarril #1408, Cara Cara, D13
+-17.343400,-66.155510, Calle Tupiza #1409, La Temible, D13
+-17.314128,-66.140423, Calle Terminal #1410, K’ara K’ara II, D13
+-17.304980,-66.142984, Calle Cementerio #1411, Cara Cara, D13
+-17.318840,-66.163282, Calle Industrial #1412, La Temible, D13
+-17.301721,-66.143003, Calle Ferrocarril #1413, K’ara K’ara II, D13
+-17.317287,-66.152483, Calle Tupiza #1414, Cara Cara, D13
+-17.302600,-66.149400, Calle Terminal #1415, La Temible, D13
+-17.295518,-66.152109, Calle Cementerio #1416, K’ara K’ara II, D13
+-17.306922,-66.156107, Calle Industrial #1417, Cara Cara, D13
+-17.354866,-66.142534, Calle Ferrocarril #1418, La Temible, D13
+-17.330767,-66.141820, Calle Tupiza #1419, K’ara K’ara II, D13
+-17.338566,-66.127324, Calle Terminal #1420, Cara Cara, D13
+-17.328977,-66.122191, Calle Cementerio #1421, La Temible, D13
+-17.294111,-66.135277, Calle Industrial #1422, K’ara K’ara II, D13
+-17.294702,-66.140767, Calle Ferrocarril #1423, Cara Cara, D13
+-17.302593,-66.132143, Calle Tupiza #1424, La Temible, D13
+-17.304873,-66.143157, Calle Terminal #1425, K’ara K’ara II, D13
+-17.345126,-66.154594, Calle Cementerio #1426, Cara Cara, D13
+-17.319054,-66.134637, Calle Industrial #1427, La Temible, D13
+-17.334925,-66.136953, Calle Ferrocarril #1428, K’ara K’ara II, D13
+-17.289270,-66.140810, Calle Tupiza #1429, Cara Cara, D13
+-17.326567,-66.158467, Calle Terminal #1430, La Temible, D13
+-17.337549,-66.129055, Calle Cementerio #1431, K’ara K’ara II, D13
+-17.325923,-66.160670, Calle Industrial #1432, Cara Cara, D13
+-17.301069,-66.145120, Calle Ferrocarril #1433, La Temible, D13
+-17.320651,-66.151983, Calle Tupiza #1434, K’ara K’ara II, D13
+-17.325927,-66.154224, Calle Terminal #1435, Cara Cara, D13
+-17.301762,-66.145864, Calle Cementerio #1436, La Temible, D13
+-17.356298,-66.119914, Calle Industrial #1437, K’ara K’ara II, D13
+-17.323430,-66.121555, Calle Ferrocarril #1438, Cara Cara, D13
+-17.335976,-66.156787, Calle Tupiza #1439, La Temible, D13
+-17.353119,-66.140500, Calle Terminal #1440, K’ara K’ara II, D13
+-17.312476,-66.154443, Calle Cementerio #1441, Cara Cara, D13
+-17.311474,-66.157349, Calle Industrial #1442, La Temible, D13
+-17.326554,-66.150710, Calle Ferrocarril #1443, K’ara K’ara II, D13
+-17.292355,-66.129710, Calle Tupiza #1444, Cara Cara, D13
+-17.335067,-66.130974, Calle Terminal #1445, La Temible, D13
+-17.337316,-66.170325, Calle Cementerio #1446, K’ara K’ara II, D13
+-17.321552,-66.157980, Calle Industrial #1447, Cara Cara, D13
+-17.323867,-66.132312, Calle Ferrocarril #1448, La Temible, D13
+-17.322925,-66.155683, Calle Tupiza #1449, K’ara K’ara II, D13
+-17.329280,-66.134313, Calle Terminal #1450, Cara Cara, D13
+-17.341825,-66.158477, Calle Cementerio #1451, La Temible, D13
+-17.337157,-66.142402, Calle Industrial #1452, K’ara K’ara II, D13
+-17.297079,-66.136417, Calle Ferrocarril #1453, Cara Cara, D13
+-17.323767,-66.172409, Calle Tupiza #1454, La Temible, D13
+-17.334270,-66.142766, Calle Terminal #1455, K’ara K’ara II, D13
+-17.331201,-66.141874, Calle Cementerio #1456, Cara Cara, D13
+-17.321450,-66.162378, Calle Industrial #1457, La Temible, D13
+-17.343096,-66.167478, Calle Ferrocarril #1458, K’ara K’ara II, D13
+-17.303470,-66.128154, Calle Tupiza #1459, Cara Cara, D13
+-17.326104,-66.164732, Calle Terminal #1460, La Temible, D13
+-17.341341,-66.131026, Calle Cementerio #1461, K’ara K’ara II, D13
+-17.353259,-66.120580, Calle Industrial #1462, Cara Cara, D13
+-17.297826,-66.144747, Calle Ferrocarril #1463, La Temible, D13
+-17.297252,-66.135421, Calle Tupiza #1464, K’ara K’ara II, D13
+-17.360447,-66.124752, Calle Terminal #1465, Cara Cara, D13
+-17.327052,-66.135005, Calle Cementerio #1466, La Temible, D13
+-17.355287,-66.118666, Calle Industrial #1467, K’ara K’ara II, D13
+-17.323880,-66.147508, Calle Ferrocarril #1468, Cara Cara, D13
+-17.320287,-66.137568, Calle Tupiza #1469, La Temible, D13
+-17.344096,-66.167536, Calle Terminal #1470, K’ara K’ara II, D13
+-17.298669,-66.126733, Calle Cementerio #1471, Cara Cara, D13
+-17.303375,-66.154287, Calle Industrial #1472, La Temible, D13
+-17.333604,-66.142315, Calle Ferrocarril #1473, K’ara K’ara II, D13
+-17.355635,-66.132133, Calle Tupiza #1474, Cara Cara, D13
+-17.295230,-66.143648, Calle Terminal #1475, La Temible, D13
+-17.306171,-66.157180, Calle Cementerio #1476, K’ara K’ara II, D13
+-17.324286,-66.147287, Calle Industrial #1477, Cara Cara, D13
+-17.326044,-66.125785, Calle Ferrocarril #1478, La Temible, D13
+-17.301313,-66.135239, Calle Tupiza #1479, K’ara K’ara II, D13
+-17.329128,-66.151451, Calle Terminal #1480, Cara Cara, D13
+-17.294177,-66.128049, Calle Cementerio #1481, La Temible, D13
+-17.315516,-66.154511, Calle Industrial #1482, K’ara K’ara II, D13
+-17.346443,-66.145738, Calle Ferrocarril #1483, Cara Cara, D13
+-17.332850,-66.135698, Calle Tupiza #1484, La Temible, D13
+-17.335777,-66.186555, Calle Terminal #1485, K’ara K’ara II, D13
+-17.303675,-66.132428, Calle Cementerio #1486, Cara Cara, D13
+-17.340184,-66.139366, Calle Industrial #1487, La Temible, D13
+-17.333954,-66.159769, Calle Ferrocarril #1488, K’ara K’ara II, D13
+-17.316103,-66.161392, Calle Tupiza #1489, Cara Cara, D13
+-17.344270,-66.161306, Calle Terminal #1490, La Temible, D13
+-17.317188,-66.133876, Calle Cementerio #1491, K’ara K’ara II, D13
+-17.306696,-66.132069, Calle Industrial #1492, Cara Cara, D13
+-17.356670,-66.119836, Calle Ferrocarril #1493, La Temible, D13
+-17.327964,-66.122135, Calle Tupiza #1494, K’ara K’ara II, D13
+-17.330538,-66.162846, Calle Terminal #1495, Cara Cara, D13
+-17.323780,-66.130389, Calle Cementerio #1496, La Temible, D13
+-17.344484,-66.149287, Calle Industrial #1497, K’ara K’ara II, D13
+-17.327444,-66.155432, Calle Ferrocarril #1498, Cara Cara, D13
+-17.309813,-66.125384, Calle Tupiza #1499, La Temible, D13
+-17.329301,-66.155218, Calle Terminal #1500, K’ara K’ara II, D13
+-17.342199,-66.129627, Calle Cementerio #1501, Cara Cara, D13
+-17.309661,-66.146098, Calle Industrial #1502, La Temible, D13
+-17.303017,-66.145443, Calle Ferrocarril #1503, K’ara K’ara II, D13
+-17.332305,-66.173961, Calle Tupiza #1504, Cara Cara, D13
+-17.339598,-66.175360, Calle Terminal #1505, La Temible, D13
+-17.323006,-66.155003, Calle Cementerio #1506, K’ara K’ara II, D13
+-17.319355,-66.169576, Calle Industrial #1507, Cara Cara, D13
+-17.332259,-66.135457, Calle Ferrocarril #1508, La Temible, D13
+-17.327958,-66.167516, Calle Tupiza #1509, K’ara K’ara II, D13
+-17.341849,-66.133724, Calle Terminal #1510, Cara Cara, D13
+-17.337795,-66.160466, Calle Cementerio #1511, La Temible, D13
+-17.317239,-66.138283, Calle Industrial #1512, K’ara K’ara II, D13
+-17.351208,-66.130872, Calle Ferrocarril #1513, Cara Cara, D13
+-17.323572,-66.142584, Calle Tupiza #1514, La Temible, D13
+-17.331566,-66.140921, Calle Terminal #1515, K’ara K’ara II, D13
+-17.340258,-66.173102, Calle Cementerio #1516, Cara Cara, D13
+-17.328113,-66.157941, Calle Industrial #1517, La Temible, D13
+-17.325220,-66.140265, Calle Ferrocarril #1518, K’ara K’ara II, D13
+-17.320072,-66.142481, Calle Tupiza #1519, Cara Cara, D13
+-17.312487,-66.129202, Calle Terminal #1520, La Temible, D13
+-17.301485,-66.160010, Calle Cementerio #1521, K’ara K’ara II, D13
+-17.355960,-66.134390, Calle Industrial #1522, Cara Cara, D13
+-17.332263,-66.164541, Calle Ferrocarril #1523, La Temible, D13
+-17.296118,-66.139115, Calle Tupiza #1524, K’ara K’ara II, D13
+-17.351708,-66.122943, Calle Terminal #1525, Cara Cara, D13
+-17.293594,-66.141347, Calle Cementerio #1526, La Temible, D13
+-17.357724,-66.140976, Calle Industrial #1527, K’ara K’ara II, D13
+-17.294921,-66.147098, Calle Ferrocarril #1528, Cara Cara, D13
+-17.351930,-66.129082, Calle Tupiza #1529, La Temible, D13
+-17.332037,-66.142140, Calle Terminal #1530, K’ara K’ara II, D13
+-17.322899,-66.149861, Calle Cementerio #1531, Cara Cara, D13
+-17.291815,-66.128522, Calle Industrial #1532, La Temible, D13
+-17.349447,-66.129356, Calle Ferrocarril #1533, K’ara K’ara II, D13
+-17.329311,-66.172500, Calle Tupiza #1534, Cara Cara, D13
+-17.310042,-66.136664, Calle Terminal #1535, La Temible, D13
+-17.356033,-66.115474, Calle Cementerio #1536, K’ara K’ara II, D13
+-17.334249,-66.142120, Calle Industrial #1537, Cara Cara, D13
+-17.335196,-66.151856, Calle Ferrocarril #1538, La Temible, D13
+-17.326591,-66.143247, Calle Tupiza #1539, K’ara K’ara II, D13
+-17.336508,-66.138378, Calle Terminal #1540, Cara Cara, D13
+-17.296909,-66.156044, Calle Cementerio #1541, La Temible, D13
+-17.344128,-66.135060, Calle Industrial #1542, K’ara K’ara II, D13
+-17.303012,-66.160194, Calle Ferrocarril #1543, Cara Cara, D13
+-17.321353,-66.130458, Calle Tupiza #1544, La Temible, D13
+-17.332144,-66.179540, Calle Terminal #1545, K’ara K’ara II, D13
+-17.320917,-66.134950, Calle Cementerio #1546, Cara Cara, D13
+-17.317333,-66.132062, Calle Industrial #1547, La Temible, D13
+-17.328871,-66.153436, Calle Ferrocarril #1548, K’ara K’ara II, D13
+-17.336112,-66.171968, Calle Tupiza #1549, Cara Cara, D13
+-17.313077,-66.134385, Calle Terminal #1550, La Temible, D13
+-17.316431,-66.157565, Calle Cementerio #1551, K’ara K’ara II, D13
+-17.313853,-66.131281, Calle Industrial #1552, Cara Cara, D13
+-17.322203,-66.146173, Calle Ferrocarril #1553, La Temible, D13
+-17.326623,-66.166469, Calle Tupiza #1554, K’ara K’ara II, D13
+-17.329497,-66.145403, Calle Terminal #1555, Cara Cara, D13
+-17.338258,-66.150248, Calle Cementerio #1556, La Temible, D13
+-17.335493,-66.123206, Calle Industrial #1557, K’ara K’ara II, D13
+-17.325109,-66.158461, Calle Ferrocarril #1558, Cara Cara, D13
+-17.293589,-66.128334, Calle Tupiza #1559, La Temible, D13
+-17.334370,-66.123397, Calle Terminal #1560, K’ara K’ara II, D13
+-17.329014,-66.146400, Calle Cementerio #1561, Cara Cara, D13
+-17.322447,-66.134137, Calle Industrial #1562, La Temible, D13
+-17.321955,-66.172545, Calle Ferrocarril #1563, K’ara K’ara II, D13
+-17.302703,-66.153135, Calle Tupiza #1564, Cara Cara, D13
+-17.338300,-66.146818, Calle Terminal #1565, La Temible, D13
+-17.336900,-66.170531, Calle Cementerio #1566, K’ara K’ara II, D13
+-17.308281,-66.161905, Calle Industrial #1567, Cara Cara, D13
+-17.342236,-66.160872, Calle Ferrocarril #1568, La Temible, D13
+-17.344317,-66.159870, Calle Tupiza #1569, K’ara K’ara II, D13
+-17.308730,-66.141269, Calle Terminal #1570, Cara Cara, D13
+-17.331641,-66.160398, Calle Cementerio #1571, La Temible, D13
+-17.332740,-66.125252, Calle Industrial #1572, K’ara K’ara II, D13
+-17.332221,-66.138466, Calle Ferrocarril #1573, Cara Cara, D13
+-17.330153,-66.146838, Calle Tupiza #1574, La Temible, D13
+-17.336310,-66.176844, Calle Terminal #1575, K’ara K’ara II, D13
+-17.360237,-66.119527, Calle Cementerio #1576, Cara Cara, D13
+-17.331009,-66.120977, Calle Industrial #1577, La Temible, D13
+-17.335808,-66.187896, Calle Ferrocarril #1578, K’ara K’ara II, D13
+-17.335488,-66.145465, Calle Tupiza #1579, Cara Cara, D13
+-17.320184,-66.163423, Calle Terminal #1580, La Temible, D13
+-17.327995,-66.159382, Calle Cementerio #1581, K’ara K’ara II, D13
+-17.324248,-66.170258, Calle Industrial #1582, Cara Cara, D13
+-17.311499,-66.145960, Calle Ferrocarril #1583, La Temible, D13
+-17.322379,-66.151290, Calle Tupiza #1584, K’ara K’ara II, D13
+-17.318311,-66.144043, Calle Terminal #1585, Cara Cara, D13
+-17.353674,-66.128867, Calle Cementerio #1586, La Temible, D13
+-17.349790,-66.123428, Calle Industrial #1587, K’ara K’ara II, D13
+-17.303793,-66.157914, Calle Ferrocarril #1588, Cara Cara, D13
+-17.319261,-66.168973, Calle Tupiza #1589, La Temible, D13
+-17.301057,-66.158236, Calle Terminal #1590, K’ara K’ara II, D13
+-17.295182,-66.149552, Calle Cementerio #1591, Cara Cara, D13
+-17.324677,-66.143755, Calle Industrial #1592, La Temible, D13
+-17.310584,-66.125117, Calle Ferrocarril #1593, K’ara K’ara II, D13
+-17.333039,-66.136201, Calle Tupiza #1594, Cara Cara, D13
+-17.350545,-66.128821, Calle Terminal #1595, La Temible, D13
+-17.325920,-66.149512, Calle Cementerio #1596, K’ara K’ara II, D13
+-17.331549,-66.134728, Calle Industrial #1597, Cara Cara, D13
+-17.294164,-66.145507, Calle Ferrocarril #1598, La Temible, D13
+-17.329953,-66.154613, Calle Tupiza #1599, K’ara K’ara II, D13
+-17.313242,-66.157224, Calle Terminal #1600, Cara Cara, D13
+-17.334427,-66.172236, Calle Cementerio #1601, La Temible, D13
+-17.309149,-66.126213, Calle Industrial #1602, K’ara K’ara II, D13
+-17.331717,-66.163272, Calle Ferrocarril #1603, Cara Cara, D13
+-17.316969,-66.143739, Calle Tupiza #1604, La Temible, D13
+-17.337130,-66.126782, Calle Terminal #1605, K’ara K’ara II, D13
+-17.362701,-66.107995, Calle Cementerio #1606, Cara Cara, D13
+-17.311720,-66.133572, Calle Industrial #1607, La Temible, D13
+-17.325257,-66.173803, Calle Ferrocarril #1608, K’ara K’ara II, D13
+-17.351723,-66.137324, Calle Tupiza #1609, Cara Cara, D13
+-17.326628,-66.132277, Calle Terminal #1610, La Temible, D13
+-17.304473,-66.144378, Calle Cementerio #1611, K’ara K’ara II, D13
+-17.320086,-66.131079, Calle Industrial #1612, Cara Cara, D13
+-17.331923,-66.140393, Calle Ferrocarril #1613, La Temible, D13
+-17.343056,-66.157153, Calle Tupiza #1614, K’ara K’ara II, D13
+-17.311189,-66.135196, Calle Terminal #1615, Cara Cara, D13
+-17.347309,-66.159648, Calle Cementerio #1616, La Temible, D13
+-17.361815,-66.112103, Calle Industrial #1617, K’ara K’ara II, D13
+-17.319238,-66.156917, Calle Ferrocarril #1618, Cara Cara, D13
+-17.313113,-66.144264, Calle Tupiza #1619, La Temible, D13
+-17.328142,-66.149948, Calle Terminal #1620, K’ara K’ara II, D13
